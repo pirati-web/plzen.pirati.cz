@@ -1,0 +1,209 @@
+---
+layout: default
+---
+
+<br>
+
+<div class="row">
+  <div class="medium-6 large-4 columns">
+    <a href="{{ '/lide/' }}">
+      <article class="article-card">
+        <img src="{{"/assets/img/o-nas/tym.jpg" }}" alt="Náš tým">
+        <div class="card-content">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
+          <h4 class="post-author">Tým</h4>
+          <p>Poznej nás a zjisti, kdo prosazuje pirátské myšlenky v Praze.</p>
+        </div>
+      </article>
+    </a>
+  </div>
+
+  <div class="medium-6 large-4 columns">
+    <a href="{{ '/mestske-casti/'  }}">
+      <article class="article-card">
+        <img src="{{"/assets/img/o-nas/mestske-casti.jpg" }}" alt="Městské části">
+        <div class="card-content">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
+          <h4 class="post-author">Městské části</h4>
+          <p>Zastoupení máme v různých městských částech.</p>
+        </div>
+      </article>
+    </a>
+  </div>
+
+  <div class="medium-6 large-4 end columns">
+    <a href="{{ '/program/'  }}" >
+      <article class="article-card">
+        <img src="{{"/assets/img/o-nas/program.jpg"}}" alt="Program">
+        <div class="card-content">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
+          <h4 class="post-author">Program</h4>
+          <p>Přečti si víc o našich nápadech jak změnit Prahu v živé a moderní město.</p>
+        </div>
+      </article>
+    </a>
+  </div>
+</div>
+
+<br />
+
+<div class="row">
+  <div class="medium-6 large-4 columns">
+    <a href="{{"/pripoj-se/#aktivity" }}">
+      <article class="article-card">
+        <img src="{{"/assets/img/pripoj-se/projekty.png"}}" alt='Naše aktivity'>
+        <div class="card-content">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
+          <h4 class="post-author">Aktivity</h4>
+          <p>Magistrát, krajské akce, debatní klub, svobodná hudba, TTIP, Pirátské listy, Videotým... Pomoz konkrétní věci!</p>
+        </div>
+      </article>
+    </a>
+  </div>
+
+  <div class="medium-6 large-4 end columns">
+    <a href="https://redmine.pirati.cz/projects/po/wiki">
+      <article class="article-card">
+        <img src="{{"/assets/img/pripoj-se/prirucka.jpg" }}" alt="Příručka Piráta">
+        <div class="card-content">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
+          <h4 class="post-author">Příručka Piráta</h4>
+          <p>Snažíme se, aby již nikdo nemusel znovu vynalézat kolo, proto sdílíme zkušenosti. </p>
+        </div>
+      </article>
+    </a>
+  </div>
+  <!-- / ROW -->
+
+  <div class="medium-6 large-4 columns">
+    <a href="#podporuji">
+      <article class="article-card">
+        <img src="{{"/assets/img/o-nas/podporuji.jpg" }}" alt="Podporují nás">
+        <div class="card-content">
+          <img class="post-icon" src="{{"/assets/img/layout/logo-kruh.png" }}" alt="P">
+          <h4 class="post-author">Podporují</h4>
+          <p>Komu přijde práce Pirátů v Praze důležitá a proč?</p>
+        </div>
+      </article>
+    </a>
+  </div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="columns large-12">
+      <section id="podporuji" data-magellan-target="podporuji">
+        <h2>Podporují nás</h2>
+
+        <div class="c-hero-block c-hero-content u-js-hiddenBeforeLoad">
+            <div class="c-hero-slider orbit" role="region" aria-label="Naši lidé" data-orbit="" data-use-m-u-i="false">
+                <button class="orbit-previous">
+                    <span class="show-for-sr">Předchozí záložka</span>
+                    <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                </button>
+                <button class="orbit-next">
+                    <span class="show-for-sr">Další záložka</span>
+                    <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                </button>
+                <ul class="orbit-container">
+                    {% assign team = site.data.podporuji-nas %}
+                    {% for person in team %}
+                    {% include people/carousel.html param='person' %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+{% comment %}
+        <!-- Carousel / Orbit -->
+        <div class="orbit" role="region" aria-label="podporuji" data-orbit >
+          <ul class="orbit-container">
+            <button class="orbit-previous"><span class="show-for-sr">Předchozí</span>&#9664;&#xFE0E;</button>
+            <button class="orbit-next"><span class="show-for-sr">Další</span>&#9654;&#xFE0E;</button>
+
+            <li class="orbit-slide is-active">
+              <div class="media-object">
+                <div class="media-object-section">
+                  <div class="thumbnail">
+                    <img src= "{{ '/assets/img/o-nas/neff.png'  }}" alt="Ondřej Neff">
+                  </div>
+                </div>
+                <div class="media-object-section">
+                  <h4>Ondřej Neff<br><small>spisovatel, novinář a vydavatel internetového deníku Neviditelný pes</small></h4>
+                  <p>Svoboda internetu úzce souvisí se svobodou jako takovou, svobodou občanů. Žijeme v době, kdy bobtnající byrokratické struktury pod záminkou politické korektnosti svobodu oklešťují, takže hrozí její postupné zadušení. Piráti se proti tomu staví, a proto je podporuji.</p>
+                </div>
+              </div>
+            </li>
+            <li class="orbit-slide">
+              <div class="media-object">
+                <div class="media-object-section">
+                  <div class="thumbnail">
+                    <img src= "{{ '/assets/img/o-nas/docekal.png'  }}" alt="Daniel Dočekal">
+                  </div>
+                </div>
+                <div class="media-object-section">
+                  <h4>Daniel Dočekal<br><small>publicista a odborník na sociální sítě</small></h4>
+
+                  <p>Od doby, kdy jsem mohl volit, jsem volil ODS. A ta se, tak nějak sama od sebe, stala nevolitelnou. Mému srdci a hlavně i přesvědčení pak nakonec nejblíže vycházejí právě Piráti. Vysvětlovat to jakkoliv racionálně by samozřejmě bylo možné hodně dlouhým povídáním, ale tím důležitým argumentem je, že v klasickém politickém spektru nic volitelného nevidím, a politika potřebuje něco nového odvážného vybočujícího ze zaběhnutých zvyků a schopného se postavit těm různorodým páprdům, papalášům, kariéristům či politickým příživníkům. Takže Pirátskou stranu nejenom podporuji, ale také už několik let volím. Dokonce vím od kdy přesně, od roku kdy ODS do pražské kandidátky opět dala Pavla Béma, který byl tehdy jasně nevolitelný.</p>
+                </div>
+              </div>
+            </li>
+            <li class="orbit-slide">
+              <div class="media-object">
+                <div class="media-object-section">
+                  <div class="thumbnail">
+                    <img src= "{{ '/assets/img/o-nas/smoljak.png'  }}" alt="Filip Smoljak">
+                  </div>
+                </div>
+                  <div class="media-object-section">
+                  <h4>Filip Smoljak<br><small>  filantrop a projektový manažer v oblasti socionomie, fundraisingu a sociálních inovací, syn Ladislava Smoljaka</small></h4>
+
+                  <p>Od dětství se cítím být pirátem, a přece jsem nikdy nikoho neokradl. Pirátství je mi od dětství sympatické, a přece bojuji proti všem formám přivlastňování si cizích věcí. Jak to? Vysvětlení nacházím v Mertonově teorii anomického tlaku i v tzv. kritické kriminologii. Úředně kriminální je totiž to, co za kriminální považuje úředník. Ovšem, je-li sám tento úředník kriminálníkem, nezbývá nám, než se řídit etikou vlastního svědomí, byť je v rozporu s byrokracií kolem nás.</p>
+                </div>
+                  <p>Proto v současné kriminogenní společnosti podporuji jednu z mála slušných politických sil, Českou pirátskou stranu a její úsilí o transparentnost veřejných vod, umírněné formy protestu proti bezohledným korporátním kolosům a vtipné inovace namířené proti velkorejdařům autorského zákona, kteří bezohledně omezují svobodnou plavbu malých nezávislých tvůrců, interpretů a uživatelů autorských děl nejen na internetu.</p>
+              </div>
+            </li>
+            <li class="orbit-slide">
+              <div class="media-object">
+                <div class="media-object-section">
+                  <div class="thumbnail">
+                    <img src= "{{ '/assets/img/o-nas/michalek.png'  }}" alt="Libor Michálek">
+                  </div>
+                </div>
+                  <div class="media-object-section">
+                    <h4>Libor Michálek<br><small>nezávislý senátor za Piráty, Zelené a KDU-ČSL</small></h4>
+
+                    <p>Pirátská strana má mé sympatie, neboť prosazuje transparentní a efektivní fungování veřejné správy a podporuje posilování prvků přímé demokracie. Osobně znám několik členů Pirátské strany, vnímám, že dělají politiku srdcem a mají mou důvěru. Přestože se nemusíme shodnout na všech programových bodech, velmi oceňuji smysl pro fair play a zásadovost.</p>
+                </div>
+              </div>
+            </li>
+            <li class="orbit-slide">
+              <div class="media-object">
+                <div class="media-object-section">
+                  <div class="thumbnail">
+                    <img src= "{{ '/assets/img/o-nas/voboril.png'  }}" alt="Jan Vobořil">
+                  </div>
+                </div>
+                  <div class="media-object-section">
+                    <h4>Jan Vobořil <br><small> advokát a specilista na ochranu osobních údajů a soukromí</small></h4>
+
+                    <p>Na Pirátech se mi líbí to, že jde o stranu, která vznikla zezdola, a to na idejích, které jsou mi blízké, jako jsou ochrana svobody jednotlivce před stále dotěrnějším státem nebo naopak transparentnost státu vůči občanům. Navíc ve stále důležitějších tématech spojených s digitálními technologiemi Piráti přináší know-how, které podle mě nenabízí žádná jiná strana na politickém spektru. Ačkoli nesouhlasím se všemi věcmi z piráského programu, tak už jen toto jsou důvody, proč si myslím, že pirátský koráb na české politické moře patří, a proč mu přeji dobrý vítr.</p>
+                </div>
+              </div>
+            </li>
+          </ul>
+          <nav class="orbit-bullets">
+           <button class="is-active" data-slide="0"><span class="show-for-sr">Ondřej Neff</span><span class="show-for-sr">Current Slide</span></button>
+           <button data-slide="1"><span class="show-for-sr">Daniel Dočekal</span></button>
+           <button data-slide="2"><span class="show-for-sr">Filip Smoljak</span></button>
+           <button data-slide="3"><span class="show-for-sr">Libor Michálek</span></button>
+           <button data-slide="5"><span class="show-for-sr">Jan Vobořil</span></button>
+         </nav>
+        </div>
+        <!-- end Carousel / Orbit -->
+
+      </section>
+    </div>
+    {% endcomment%}
+</div>

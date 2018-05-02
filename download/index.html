@@ -1,0 +1,182 @@
+---
+layout: page
+title: Ke stažení a sdílení
+rbar: people
+filexts1:
+  - png
+  - svg
+  - pdf
+  - ai
+kandidati:
+  - name: Jakub
+    file: praha-jakub-604x851mm.pdf
+  - name: Dana
+    file: praha-dana-604x851mm.pdf
+  - name: Ondra
+    file: praha-ondrej-604x851mm.pdf
+  - name: Olga
+    file: praha-olga-604x851mm.pdf
+  - name: Robert
+    file: praha-robert-594x841mm.pdf
+---
+
+<div class="row">
+  <div class="columns large-12">
+    <h2> Logo </h2>
+  </div>
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/img/brand/logo.svg' | relative_url}}" alt="Logo Piráti" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Logo</h3>
+        <p>
+          Klasické: {% for e in page.filexts1 %}
+          <a href="{{e | prepend: '/assets/img/brand/logo.' | relative_url}}">{{e}}</a>, {% endfor %}
+          <br />
+          Bílé (iverzní): {% for e in page.filexts1 %}
+          <a href="{{e | prepend: '/assets/img/brand/logo_white.' | relative_url}}">{{e}}</a>, {% endfor %}
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/img/brand/logo_napis.svg' | relative_url}}" alt="Logotyp Pirátská strana" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Logotyp</h3>
+        <p>
+          Klasické: {% for e in page.filexts1 %}
+          <a href="{{e | prepend: '/assets/img/brand/logo_napis.' | relative_url}}">{{e}}</a>, {% endfor %}
+          <br />
+          Bílé (inverzní): {% for e in page.filexts1 %}
+          <a href="{{e | prepend: '/assets/img/brand/logo_napis_white.' | relative_url}}">{{e}}</a>, {% endfor %}
+        </p>
+      </div>
+    </div>
+  </div>
+</div><!-- /row -->
+
+<div class="row">
+  <div class="columns large-12">
+    <h2> Pirátské listy </h2>
+  </div>
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/pdf/pirlisty.png' | relative_url}}" alt="Pirátské listy" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Pirátské listy</h3>
+        <p>
+          2017 podzim:
+          <a alt="Pirátské listy: celostátní" href="{{'/assets/pdf/piratske_listy_podzim_2017_broadsheet_central_web.pdf' | relative_url}}">pdf</a>,
+          <br />
+        </p>
+      </div>
+    </div>
+  </div>
+</div><!-- /row -->
+
+<div class="row">
+  <div class="columns large-12">
+    <h2> Plakáty </h2>
+  </div>
+
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/pdf/posters/A4-plakat.png' | relative_url}}" alt="Plakát Letos vol Piráty" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Plakáty Praha</h3>
+        <p>
+          A1 kandidáti: {% for k in page.kandidati %}
+          <a href="{{k.file | prepend: '/assets/pdf/posters/' | relative_url}}">{{k.name}}</a>,
+          {% endfor %}<br />
+          A1 texty:<br />
+          <a href="{{'/assets/pdf/posters/praha-text-proc-byt-604x851mm.pdf' | relative_url}}">Proč makáme na byt nejdéle?</a><br />
+          <a href="{{'/assets/pdf/posters/praha-text-proc-fronty-604x851mm.pdf' | relative_url}}">Proč stojíme fronty na úřadech?</a><br />
+          <a href="{{'/assets/pdf/posters/praha-text-parky-604x851mm.pdf' | relative_url}}">Chceme parky, nikoliv pustinu</a><br />
+          <a href="{{'/assets/pdf/posters/praha-text-clanek-604x851mm.pdf' | relative_url}}">Už jsi napsal článek o pirátech?</a><br />
+          <a href="{{'/assets/pdf/posters/praha-text-vol-604x851mm.pdf' | relative_url}}">Letos vol Piráty</a><br />
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/pdf/posters/A4-plakat.png' | relative_url}}" alt="Plakát Letos vol Piráty!" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Plakát barevný</h3>
+        <p>
+          A4:
+          <a alt="Plakát A4 barevný" href="{{'/assets/pdf/posters/A4-plakat.pdf' | relative_url}}">pdf</a>,
+          <a alt="Plakát A4 barevný" href="{{'/assets/pdf/posters/A4-plakat.png' | relative_url}}">png</a>,
+          <br />
+          A3: <a alt="Plakát A3 barevný" href="{{'/assets/pdf/posters/A3-plakat.pdf' | relative_url}}">pdf</a>
+	  <br/>
+	  S Ondřejem Profantem (na web):
+          <a alt="Plakát s Ondřejem Profantem (pro web)" href="{{'/assets/miscellaneous/ondra-ivan.jpg' | relative_url}}">jpg</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/pdf/posters/A4-plakat-cb.png' | relative_url}}" alt="Plakát Letos vol Piráty černobílý" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Plakát černobílý</h3>
+        <p>
+          A4:
+          <a alt="Plakát A4 černobílý" href="{{'/assets/pdf/posters/A4-plakat-cb.pdf' | relative_url}}">pdf</a>,
+          <a alt="Plakát A4 černobílý" href="{{'/assets/pdf/posters/A4-plakat-cb.png' | relative_url}}">png</a>
+          <br />
+          A3: <a alt="Plakát A3 černobílý" href="{{'/assets/pdf/posters/A3-plakat-cb.pdf' | relative_url}}">pdf</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="columns large-6">
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img src="{{'/assets/pdf/fence-1.png' | relative_url}}" alt="Plakát Letos vol Piráty černobílý" style="width: 80px;"/>
+        </div>
+      </div>
+      <div class="media-object-section">
+        <h3>Banner na plot</h3>
+        <p>
+          Pustťe nás na ně: <a alt="" href="{{'/assets/pdf/fence-banner-2x1m-1.pdf' | relative_url}}">pdf</a> <br />
+          Tady kotví Piráti: <a alt="" href="{{'/assets/pdf/fence-banner-2x1m-3.pdf' | relative_url}}">pdf</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /row -->

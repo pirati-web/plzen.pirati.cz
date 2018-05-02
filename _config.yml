@@ -1,0 +1,79 @@
+title: Pirátská strana Praha
+email: to@pirati.cz
+description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha.pirati.cz" # the base hostname & protocol for your site
+
+markdown: kramdown
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+paginate_path: "/aktuality/:num/"
+paginate: 11
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - bower.json
+  - gulpfile.js
+  - node_modules
+  - bower_components
+  - vendor
+
+sass:
+    style: compressed
+
+permalink: /:title.html
+collections:
+  people:
+    output: true
+    permalink: /lide/:path/
+  projects:
+    output: true
+    permalink: /pripoj-se/:path/
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "page"
+      rbar: "people, foto"
+  -
+    scope:
+      path: "_teams"
+    values:
+      layout: "team"
+      rbar: "team-summary, teams-toc"
+
+calendar:
+fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
+tw: piratipraha
+
+title-page:
+  big:
+    foto: /assets/img/miscellaneous/featured-penta.gif
+    alt: Nechceme, aby Metro D skončilo jako tunel
+    url: https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html
+  left-top:
+    text: Kdo jsme?
+    url: https://praha.pirati.cz/lide/
+    icon: fa fa-users
+  right-top:
+    text: Piráti ve sněmovně
+    url: https://www.pirati.cz/snemovna/
+    icon: fa fa-newspaper-o u-rotate-345
+  left-bottom:
+    text: Městské části
+    url: mestske-casti
+    icon: fa map-signs
+  right-bottom:
+    text: Připoj se
+    url: pripoj-se
+    icon: fa fa-bullhorn u-rotate-345
+
+emptyArray: []
