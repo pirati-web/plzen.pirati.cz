@@ -1,8 +1,8 @@
-title: Pirátská strana Praha
+title: Pirátská strana Plzeň
 email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://praha.pirati.cz" # the base hostname & protocol for your site
+url: "https://plzen.pirati.cz" # the base hostname & protocol for your site
 
 markdown: kramdown
 
@@ -51,8 +51,8 @@ defaults:   # defaults values for collection scope
       rbar: "team-summary, teams-toc"
 
 calendar:
-fb: https://www.facebook.com/CeskaPiratskaStranaPraha/
-tw: piratipraha
+fb: https://www.facebook.com/plzenska.piratska.strana/
+tw: PiratskaStrana
 
 title-page:
   big:
@@ -61,7 +61,7 @@ title-page:
     url: https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html
   left-top:
     text: Kdo jsme?
-    url: https://praha.pirati.cz/lide/
+    url: https://plzen.pirati.cz/lide/
     icon: fa fa-users
   right-top:
     text: Piráti ve sněmovně

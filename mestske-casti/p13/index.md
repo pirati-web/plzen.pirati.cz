@@ -139,6 +139,30 @@ layout: default
              </div>
           </div>
         </div>
+        <div class="l-kan__item l-cast__kan-item row">
+          <div class="l-kan__item-img l-cast__kan-img columns medium-5 large-6"> <img src="https://praha.pirati.cz/assets/img/people/jiri-koudelka.jpg" alt="Jiří Koudelka"/></div>
+          <div class="l-kan__item-data columns medium-7 large-6">
+            <h2 class="l-kan__name"><strong>Jiří Koudelka</strong></h2>            
+              <div class="l-kan__desc">
+                <p class="l-cast__perex">Jmenuji se Jiří Koudelka, narodil jsem se roku 1981 v Mělníku, ale většinu svého života jsem prožil v Praze, 
+                    konkrétně ve Stodůlkách a Řepích. Vystudoval jsem gymnázium  U Libeňského zámku, obor Informatika. 
+                    Po dvou letech na Fakultě Elektrotechniky ČVUT jsem přešel na VŠE a získal titul bakaláře v oboru Informatika a Statistika. 
+                    Už během studia jsem se věnoval práci v IT firmách.</p>
+
+                    <p>Během praxe jsem získal zkušenosti s vývojem širokého spektra aplikací - od softwaru pro krizové řízení a státní správu 
+                    přes intrawebové CRM systémy až po mobilní aplikace. V současnosti pracuji jako OSVČ především na vývoji 
+                    nativních mobilních aplikací pro platformu Android.</p>
+
+                    <a class="l-cast__toggle--more" href="javascript:void(0)" onclick="$(this).next().toggle();">Více</a><div style="display:none;">
+                    <p>O politiku se zajímám dlouhodobě, ale teprve Piráti mě přesvědčili, že i běžný člověk může něco změnit a proto jsem se k nim přidal. 
+                    Na Praze 13 jsem vyrostl, žije tu má rodina a chci aby nám tu všem bylo lépe.</p>
+                    <p>V poslední době se ve spolupráci s dalšími Pirátskými odborníky zabývám “černou dírou na peníze” - rozkrývání 
+                    mnohdy předražených a diletantsky zpracovaných IT zakázek magistrátu Hlavního Města Prahy.</p>
+                    <p>V našem týmu na Praze 13 jsem garantem programového bodu “Otevřená radnice” a 2. místopředsedou místní organizace. 
+                    Jsem také členem pracovních skupin “Doprava” a “Bezpečnost”.</p></div>
+             </div>
+          </div>
+        </div>
   </div>
 </section>
 <a name="PrioritypiratunaPraze13"></a>

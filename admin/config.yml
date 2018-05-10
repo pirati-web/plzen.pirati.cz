@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: pirati-web/praha.pirati.cz
+  repo: pirati-web/plzen.pirati.cz
   branch: gh-pages
   base_url: https://piraweboauth.herokuapp.com
 

@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+Gemfile.lock
+desktop.ini
+
+node_modules
+bower_components
+
+Thumbs.db
+package-lock.json

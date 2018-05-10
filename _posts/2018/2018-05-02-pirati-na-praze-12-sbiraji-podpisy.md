@@ -5,7 +5,7 @@ tags:         praha-12
 layout:       post
 title:        "Sbíráme na Praze 12 podpisy pod petici za záchranu louky u Modřanské rokle" 
 image:        nahupech.jpg
-author:       Adam Zábranský
+author:       Eva Tylová
 ---
 
 Praha, 30. dubna 2018 - Pirátští zastupitelé městské části Praha 12 Lukáš Findeis a Eva Tylová o víkendu začali se sběrem podpisů pod petici proti změně územního plánu, která by umožnila zastavení louky „Na Hupech“ pod Modřanskou roklí. Během několika hodin sehnali stovky podpisů. Ve sběru budou spolu s dalšími příznivci Pirátů pokračovat i další dny.

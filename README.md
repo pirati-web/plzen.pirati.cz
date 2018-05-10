@@ -1,1 +1,0 @@
-# plzen.pirati.cz

@@ -5,7 +5,7 @@ tags:         kauzy informatika
 layout:       post
 title:        "Praha chce zadat zakázku na zabezpečení radiového systému za 93 milionů bez soutěže, Piráti to odmítají" 
 image:        radio93.jpg
-author:       Adam Zábranský
+author:       Ondřej Kallasch
 ---
 
 Nezabezpečený radiový systém Tetra, který Piráti dlouhodobě [sledují](https://praha.pirati.cz/odposlouchavani.html), se opět dostává na pořad dne. Praha slíbila, že jej dá do pořádku, aby nikdo nemohl odposlouchávat městskou policii. Po naší [kritice](https://praha.pirati.cz/jrbu-na-mrs.html), že je připravená zakázka za 93 milionů předražená a měla by se otevřeně soutěžit, Rada svůj návrh stáhla. Nyní jej oprášila – v původní ceně a s původními chybami. Záměr na vypsání zakázky byl schválen na jednání rady 17. dubna a zastupitelstvo o něm bude rozhodovat ve čtvrtek.

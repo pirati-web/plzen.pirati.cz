@@ -1,0 +1,23 @@
+.testimonial-header h4 {text-transform:uppercase; font-size:95%; font-weight: 600; margin-bottom:-5px}
+.testimonial-wrap {margin-top:15px; margin-bottom:-30px}
+.testimonial img {text-align: right; float: right; width: 60px; height: 60px; margin-top:15px; margin-left:8px; margin-right:15px}
+.testimonial cite {text-align: right}
+
+.testimonial blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201E""\201E""\201E""\201E";
+}
+.testimonial blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: 0em;
+}
+.testimonial blockquote p {
+  display: inline;
+}
