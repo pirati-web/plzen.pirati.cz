@@ -68,12 +68,12 @@ title-page:
     url: https://www.pirati.cz/snemovna/
     icon: fa fa-newspaper-o u-rotate-345
   left-bottom:
-    text: Městské části
-    url: mestske-casti
+    text: Program
+    url: program
     icon: fa map-signs
   right-bottom:
-    text: Připoj se
-    url: pripoj-se
+    text: Facebook
+    url: https://www.facebook.com/plzenska.piratska.strana/
     icon: fa fa-bullhorn u-rotate-345
 
 emptyArray: []
