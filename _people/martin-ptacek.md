@@ -4,7 +4,7 @@ name:     Martin Ptáček   	    # běžně používáné jméno
 fullname: Ing. Martin Ptáček  	# jméno s tituly etc.
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - plzen
-img: people/martin-ptacek.jpg   # 165 x 220
+img: https://wiki.pirati.cz/_media/lide/heky.png   # 165 x 220
 description: Člen krajského sdružení Pirátů v Plzni             	# kratký popis, max 160 znaků
 mail:
 - martin.ptacek@pirati.cz
@@ -17,15 +17,15 @@ profiles:
 #ordpks: 2
 #ordcar: 2
 carousel:
-  img: martin-ptacek.jpg
+  img: https://wiki.pirati.cz/_media/lide/heky.png
   text: |
     <p>Člen krajského sdružení Pirátů v Plzni. </p>
 ---
-Ing. Martin Ptáček (* 17. listopadu 1985) Je příznivec pirátské strany. Martin Ptáček pochází z města Cheb a od roku 2005 žije v Plzni.
+Ing. Martin Ptáček (* 17. listopadu 1985) Je člen pirátské strany. Příznivcem od roku 2010. Pochází z Chebu a od roku 2005 žije v Plzni.
 
-Vystudoval obor Matematické Inženýrství na Fakultě Aplikovaných věd Západočeské univerzity v Plzni, kde získal titul Ing. V průběhu studia se specializoval na numerické modelování fyzikálních procesú zvláště pat dynamiku tekutin, pracoval na několika projektech.
+Vystudoval obor Matematické Inženýrství na Fakultě Aplikovaných věd Západočeské univerzity v Plzni, kde získal titul Ing. V průběhu studia se specializoval na numerické modelování fyzikálních procesů zvláště pat dynamiku tekutin, pracoval na několika projektech.
 
-Na univerzitě se také angažoval ve studentské samosprávě a byl členem akademiského senátu univerzity a akademického senátu fakulty aplikovaných věd.
+Na univerzitě se také angažoval ve studentské samosprávě a byl členem akademického senátu univerzity a akademického senátu fakulty aplikovaných věd.
 
 Prošel několika firmami, kde se věnoval převážně testování softwarových aplikací a správě operačních systémů. V současnosti pracuje jako tester v české firmě s nadnárodní působností.
 
