@@ -2,17 +2,29 @@
 uid: pavel.sramek
 name:     Pavel Šrámek      		# běžně používáné jméno
 fullname: Pavel Šrámek  		# jméno s tituly etc.
-category: plzen, plk                 		# kategorie: rp, praha, vary, hradec, jmk, senat
+category:						# kategorie: rp, praha, vary, hradec, jmk, senat
+- mag
+- plk
+- plzen                 		
+- pms
+- carousel
 img: people/pavel-sramek.jpg           # 165 x 220
 description: Předseda místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - pavel.sramek@pirati.cz
 mob: +420777300508 
+ordplzen: 3
+ordcar : 3
+ordpms : 1
 profiles:
   github: https://github.com/PavelSramek
   facebook: https://www.facebook.com/Mastermoind				
   twitter:
   linkedin: https://www.linkedin.com/in/pavel-šrámek-636823b7/ 
+carousel:
+  img: pavel-sramek.jpg
+  text: |
+    <p>Předseda místního sdružení Plzeň </p>
 ---
 
 Pavel Šrámek (* 8. května 1991) je od roku 2016 členem Pirátské strany. Pavel pochází z Plzně a mimo 5 let, které strávil v Hradci Králové, ve svém rodném městě žije a podniká.
