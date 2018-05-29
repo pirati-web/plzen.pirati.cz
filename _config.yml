@@ -50,7 +50,7 @@ defaults:   # defaults values for collection scope
       layout: "team"
       rbar: "team-summary, teams-toc"
 
-calendar:
+calendar: https://calendar.google.com/calendar/embed?src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague
 fb: https://www.facebook.com/plzenska.piratska.strana/
 tw: PiratskaStrana
 

@@ -1,5 +1,3 @@
-<<<<<<< gh-pages
----
 uid: petr.vileta
 name:     Petr Vileta  	# běžně používáné jméno
 fullname: Petr Vileta  	# jméno s tituly etc.
@@ -82,7 +80,5 @@ Kromě své manželky, živnosti, psa a&nbsp;Pirátské strany se opět začal v
 V&nbsp;krajských volbách 2016 kandidoval na druhém místě samostatné kandidátky České pirátské strany, ale Piráti získali 
 jen [3,82% hlasů](http://volby.cz/pls/kz2016/kz311?xjazyk=CZ&xdatum=20161007&xkraj=3) a&nbsp;tedy žádný mandát. Ve volbách do 
 Poslanecké sněmovny v&nbsp;roce 2017 kandidoval v&nbsp;Plzeňském kraji na 6.&nbsp;místě kandidátky a&nbsp;opět nebyl zvolen.
-=======
->>>>>>> gh-pages
 
 V&nbsp;roce 2018 byl zvolen místopředsedou Místního sdružení Plzeň.
