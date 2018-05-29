@@ -4,7 +4,8 @@ name:     Martin Ptáček   	    # běžně používáné jméno
 fullname: Ing. Martin Ptáček  	# jméno s tituly etc.
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - plzen
-img: https://wiki.pirati.cz/_media/lide/heky.png   # 165 x 220
+- plk
+img: people/martin-ptacek.jpg   # 165 x 220
 description: Člen krajského sdružení Pirátů v Plzni             	# kratký popis, max 160 znaků
 mail:
 - martin.ptacek@pirati.cz
@@ -17,7 +18,7 @@ profiles:
 #ordpks: 2
 #ordcar: 2
 carousel:
-  img: https://wiki.pirati.cz/_media/lide/heky.png
+  img: martin-ptacek.jpg
   text: |
     <p>Člen krajského sdružení Pirátů v Plzni. </p>
 ---
