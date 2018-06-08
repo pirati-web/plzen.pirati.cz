@@ -34,7 +34,7 @@ collections:
     permalink: /lide/:path/
   projects:
     output: true
-    permalink: /pripoj-se/:path/
+    permalink: https://forum.pirati.cz/viewforum.php?f=517
 
 defaults:   # defaults values for collection scope
   -
@@ -56,12 +56,12 @@ tw: PiratskaStrana
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-penta.gif
-    alt: Nechceme, aby Metro D skončilo jako tunel
-    url: https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html
+    foto: /assets/img/miscellaneous/PiCentrum.jpg
+    alt: Plzeňské Pirátské Centrum
+    url: https://plzen.pirati.cz/picentrum/
   left-top:
     text: Kdo jsme?
-    url: https://plzen.pirati.cz/lide/
+    url: lide
     icon: fa fa-users
   right-top:
     text: Piráti ve sněmovně
