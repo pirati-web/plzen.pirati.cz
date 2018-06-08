@@ -9,7 +9,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - carousel							# carousel tam nech vždy
 
 img: people/tomas-pastircak.jpg   # 165 x 220
-description: Garant pro rozvoj města, životní prostředí a dopravu             	# kratký popis, max 160 znaků
+description: Člen MS Plzeň, kandidát na magistrát    # kratký popis, max 160 znaků
 mail:
 - Tomas.Pastircak@pirati.cz
 mob:			  +420 724 692 024
@@ -22,7 +22,7 @@ ordcar: 6	#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandido
 carousel:
   img: tomas-pastircak.jpg
   text: |
-    <p>Garant pro rozvoj města, životní prostředí a dopravu </p>
+    <p>Člen MS Plzeň, kandidát na magistrát </p>
 --- 
 
 Tomáš Pastirčák se narodil v roce 1989 v Mostě. Po absolvování gymnázia v Mostě nastoupil v roce 2008 na Fakultu Informatiky Masarykovy Univerzity v Brně, kde vystudoval nejprve bakalářský obor Aplikovaná informatika (2012) a poté i magisterský obor Počítačové systémy (2014). Do svého prvního zaměstnání softwarového vývojáře nastoupil v roce 2011.
