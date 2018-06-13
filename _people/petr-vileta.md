@@ -26,7 +26,7 @@ redmine:
 carousel:
   img: petr-vileta.jpg
   text: |
-    <p>Místopředseda místního sdružení Plzeň </p>
+    <p>Místopředseda místního sdružení Plzeň<br>Lídr kandidátky na ÚMO-2 </p>
 ---
 (* 6.7.1956 v Plzni, † *zatím ne*). Je ženatý od roku 1980, pořád s tou samou ženou, a bezdětný.
 
