@@ -8,7 +8,7 @@ category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - plzen                 		
 - pms
 - carousel
-img: plzen.pirati.cz/assets/img/people/pavel-sramek.jpg           # 165 x 220
+img: people/pavel-sramek.jpg           # 165 x 220
 description: Předseda místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - pavel.sramek@pirati.cz
