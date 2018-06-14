@@ -22,7 +22,7 @@ profiles:
   twitter:
   linkedin: https://www.linkedin.com/in/pavel-šrámek-636823b7/ 
 carousel:
-  img: pavel-sramek.jpg
+  img: jiri-rezek.jpg
   text: |
     <p>Místopředseda místního sdružení Plzeň </p>
 ---
