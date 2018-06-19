@@ -6,10 +6,9 @@ category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plk
 - plzen                 		
-- pms
 - carousel
 img: people/jiri-rezek.jpg           # 165 x 220
-description: Místopředseda místního sdružení Plzeň # kratký popis, max 160 znaků
+description: Místopředseda krajského sdružení Plzeňský kraj # kratký popis, max 160 znaků
 mail:
 - jiri.rezek@pirati.cz
 mob: 
@@ -24,7 +23,7 @@ profiles:
 carousel:
   img: jiri-rezek.jpg
   text: |
-    <p>Místopředseda místního sdružení Plzeň </p>
+    <p>Místopředseda krajského sdružení Plzeňský kraj  </p>
 ---
 
 Ing. Jiří Rezek, Ph.D. (* 23. leden 1983) je členem Republikového výboru České pirátské strany. U Pirátů je od jejich vzniku na Ustavujícím fóru.

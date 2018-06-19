@@ -51,14 +51,14 @@ defaults:   # defaults values for collection scope
       rbar: "team-summary, teams-toc"
 
 calendar: https://calendar.google.com/calendar/embed?src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague
-fb: https://www.facebook.com/plzenska.piratska.strana/
+fb: https://www.facebook.com/pirati.plzen/
 tw: PiratskaStrana
 
 title-page:
   big:
     foto: /assets/img/miscellaneous/PiCentrum.jpg
     alt: Plzeňské Pirátské Centrum
-    url: https://plzen.pirati.cz/picentrum/
+    url: picentrum
   left-top:
     text: Kdo jsme?
     url: lide
@@ -73,7 +73,7 @@ title-page:
     icon: fa map-signs
   right-bottom:
     text: Facebook
-    url: https://www.facebook.com/plzenska.piratska.strana/
+    url: https://www.facebook.com/pirati.plzen/
     icon: fa fa-bullhorn u-rotate-345
 
 emptyArray: []
