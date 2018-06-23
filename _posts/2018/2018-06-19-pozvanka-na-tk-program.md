@@ -10,7 +10,7 @@ author:       Piráti Plzeň
 
 Piráti Plzeň zvou novináře na tiskovou konferenci na téma představení volebního programu a lídrů v rámci komunálních voleb 2018 v Plzni. Brífink se bude věnovat představení hlavních programových bodů, které chtějí Piráti v Plzni prosadit. Program představí lídři kandidátních listin v rámci komunálních voleb na magistrát města Plzeň a městských obvodů 1, 2, 3, 4.
 
-**Kdy:** středa 27. června 2018 od 11:00h
+**Kdy:** středa 27. června 2018 od 9:30h
 
 **Kde:** Plzeňské Pirátské Centrum, U Zvonu 4/9, Plzeň
 
