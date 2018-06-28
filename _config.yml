@@ -58,7 +58,7 @@ title-page:
   big:
     foto: /assets/img/miscellaneous/PiCentrum.jpg
     alt: Plzeňské Pirátské Centrum
-    url: picentrum
+    url: picentrum #nahraď url třeba https://www.youtube.com/embed/2MpUj-Aua48?&autoplay=1
   left-top:
     text: Kdo jsme?
     url: lide

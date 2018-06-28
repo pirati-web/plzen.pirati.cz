@@ -24,9 +24,13 @@
               <div class="c-card-header c-card-header--white">
               </div>
               <div class="c-card-image-wrapper">
+            {% if box0.url contains "youtube" %}
+                   <iframe width="100%" height="100%" src="{{box0.url}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            {% else %}
                 <a href="{% if box0.url contains "http" %}{{box0.url}}{% else %}{{box0.url | relative_url }}{% endif %}">
                   <img src="{{ box0.foto | prepend: site.baseurl }}" class="c-card__image" alt="{{box0.alt}}">
                 </a>
+            {% endif %}
               </div>
             </article>
           </div>
