@@ -1,5 +1,5 @@
 ---
-date:         2018-05-20
+date:         2018-06-27
 category:     blog
 tags:         TiskovéZprávy Program
 layout:       post
