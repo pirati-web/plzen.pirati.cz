@@ -52,8 +52,8 @@ defaults:   # defaults values for collection scope
 
 calendar: https://calendar.google.com/calendar/embed?src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague
 fb: https://www.facebook.com/pirati.plzen/
-tw: PiratskaStrana
-
+tw: PiratiPlzen
+instagram: pirati.plzen
 title-page:
   big:
     foto: /assets/img/miscellaneous/PiCentrum.jpg
