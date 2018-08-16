@@ -27,7 +27,7 @@ var choice_n_random = function(data, n) {
   var choice = [];
   while(true) {
     var value = data[Math.floor(Math.random()*data.length)];
-    if(value.description) {
+  if((value.description) && (!choice.includes(value) || data.length < n)) {
       choice.push(value);
       if(choice.length == n) {
         break;
