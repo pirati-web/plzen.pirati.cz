@@ -56,9 +56,9 @@ tw: PiratiPlzen
 instagram: pirati.plzen
 title-page:
   big:
-    foto: /assets/img/miscellaneous/PiCentrum.jpg
-    alt: Plzeňské Pirátské Centrum
-    url: picentrum #nahraď url třeba https://www.youtube.com/embed/2MpUj-Aua48?&autoplay=1
+    foto: dummy
+    alt: Piráti k fúzi Plzeňské Teplárenské
+    url: https://www.youtube.com/embed/ewHUuzeUth4?&autoplay=0
   left-top:
     text: Kdo jsme?
     url: lide

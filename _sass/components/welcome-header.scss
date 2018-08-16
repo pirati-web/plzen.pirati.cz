@@ -30,17 +30,19 @@
     padding-right: 10px;
   }
 
+  
   &.c-welcome-header-wrapper--wbg {
 
     &:before {
+      $randomHeader: random(3);
       content: '';
       position: absolute;
       bottom: 0;
       right: -1rem;
       width: 442px;
       height: 325px;
-      background: url('../img/miscellaneous/people-big.png') no-repeat;
-      background-size: 100%;
+      background: url('../img/miscellaneous/header#{$randomHeader}.jpg') no-repeat;
+      background-size: 90%;
       transform-origin: bottom left;
     }
 
