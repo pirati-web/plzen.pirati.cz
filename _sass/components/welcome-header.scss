@@ -124,6 +124,15 @@
   width: 250px;
 }
 
+.c-separator:before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url('../img/brand/logo.svg') no-repeat;
+  background-size: cover;
+}
+
 .c-welcome-header .c-welcome-header__quote {
   position: relative;
   margin: 0;
@@ -151,6 +160,9 @@
     top: 0;
     left: 50%;
     transform: translateX(-50%);
+  }
+  @include breakpoint(large){
+    width: 60%;
   }
 
   @include breakpoint(medium) {
