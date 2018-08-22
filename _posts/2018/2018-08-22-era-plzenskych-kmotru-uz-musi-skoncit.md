@@ -1,9 +1,9 @@
 ---
 date:         2018-08-22
 category:     blog
-tags:         PirátskéCentrum Sdílení Pavel Bosák
+tags:         Plzeň
 layout:       post
-title:        "Éra plzeňských kmotrů už musí skončit " 
+title:        "Éra plzeňských kmotrů už musí skončit" 
 image:        Pavel_Bosak.jpg
 author:       Pavel Bosák
 ---
@@ -60,4 +60,3 @@ Kdo je Pavel Bosák
 - V letech 2010 a 2014 byl zvolen zastupitelem v 6. městském obvodě. 
 - Od ledna 2017 vede občanský odpor proti plánované výstavbě obřích průmyslových hal v Plzni-Liticích.
 - Je ženatý, má dva syny. Volný čas rád tráví na horském kole, nebo malováním obrazů.
-ážení příznivci Pirátské strany. Od zítřka, pondělí 21. 5. 2018, bude v Plzeňské Pirátské Centrum otevřena Pirátská knihovna. Ta funguje na velmi jednoduchém principu sdílení. Zájemce si vezme jednu knihu a na oplátku ji nahradí jednou či dvěma knihami, které si přinese a zařadí je tak do oběhu pro ostatní návštěvníky knihovny. Pirátskou knihovnu naleznete v Plzeňském Pirátském centru na adrese: U Zvonu 4/9, kde Vás rádi přivítáme ve všední dny od 14 do 17 hodin na kus řeči, nebo třeba kávu, či čaj. Sharing is caring, Držíme kurz!
