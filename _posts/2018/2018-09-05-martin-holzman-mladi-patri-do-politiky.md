@@ -7,11 +7,9 @@ title:        "Mladí do politiky patří!"
 image:        martin_holzman.jpg
 author:       Martin Holzman
 ---
-**Mladí do politiky patří**
+Proč si myslím, že mladí patří do politiky? 
 
-
-Proč si myslím, že mladí patří do politiky? Protože mladí nejsou ovlivněni dřívějšími totalitními režimy, tím pádem uvažují racionálněji, mají vlastní hlavu a uvažují demokraticky.
-
+Protože mladí nejsou ovlivněni dřívějšími totalitními režimy, tím pádem uvažují racionálněji, mají vlastní hlavu a uvažují demokraticky.
 
 Vzhledem k naší nové vládě s důvěrou, je důležité si říct, že někde je problém, když se komunisté dostali k moci.
 
