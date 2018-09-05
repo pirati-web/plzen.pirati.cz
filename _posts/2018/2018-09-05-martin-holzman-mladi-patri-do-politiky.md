@@ -1,7 +1,7 @@
 ---
-date:         2018-08-31
+date:         2018-09-05
 category:     blog
-tags:         PirátskéCentrum Sdílení DanielKus
+tags:         PirátskéCentrum Sdílení 
 layout:       post
 title:        "Mladí do politiky patří!" 
 image:        martin_holzman.jpg
