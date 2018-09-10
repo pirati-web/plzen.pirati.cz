@@ -17,8 +17,8 @@ profiles:
   github:                 #váš účet na githubu - pokud nemáte, napište před to #
   facebook: https://www.facebook.com/frantisek.hagara		  #váš alias na facebooku - pokud nemáte, napište před to #
   
-ordplzen: 11		#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandidovat, napiš náhodné číslo větší než 10
-ordcar: 11	#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandidovat, napiš náhodné číslo větší než 10
+ordplzen: 10		#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandidovat, napiš náhodné číslo větší než 10
+ordcar: 10	#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandidovat, napiš náhodné číslo větší než 10
 carousel:
   img: frantisek-hagara.jpg
   text: |
