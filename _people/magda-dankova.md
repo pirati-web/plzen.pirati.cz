@@ -12,7 +12,7 @@ img: people/magdalena-dankova.jpg           # 165 x 220
 description: Místopředsedkyně místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - magda.dankova@pirati.cz
-mob: 
+mob: +420 778 501 029
 ordplzen: 4
 ordcar : 4
 ordpms : 2

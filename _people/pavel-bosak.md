@@ -10,7 +10,7 @@ img: people/pavel-bosak.jpg           # 165 x 220
 description: Lídr kandidátky na Magistrát města Plzně # kratký popis, max 160 znaků
 mail:
 - pavel.bosak@pirati.cz
-mob: 
+mob: +420 602 377 764
 ordplzen: 1
 ordcar : 1
 profiles:
