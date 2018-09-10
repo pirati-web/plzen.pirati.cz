@@ -1,7 +1,7 @@
 ---
 uid: roman.sedlacek
 name:     Roman Sedláček      		# běžně používáné jméno
-fullname: Bc. Roman Sedláček  		# jméno s tituly etc.
+fullname: Roman Sedláček  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - plzen
 img: people/roman-sedlacek.jpg           # 165 x 220
