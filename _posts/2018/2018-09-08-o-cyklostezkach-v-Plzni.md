@@ -1,5 +1,5 @@
 ---
-date:         2018-08-31
+date:         2018-09-08
 category:     blog
 tags:         PirátskéCentrum Sdílení MartinPtacek
 layout:       post
