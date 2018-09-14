@@ -4,7 +4,7 @@ category:     blog
 tags:         PirátskéCentrum Sdílení Plzeň
 layout:       post
 title:        "Proč Plzeň potřebuje léčbu piráty?" 
-image:        pavel_bosak.jpg
+image:        lecba-piraty.jpg
 author:       Pavel Bosák
 ---
 
@@ -19,4 +19,5 @@ author:       Pavel Bosák
 
 5. Údržba zeleně není péče o přírodu: Hlavní a nenahraditelnou hodnotou Plzně je její pohádkové zasazení do krajiny “pěti řek”. Divočina tu prostupuje až do centra a lemuje obytné čtvrti. Moudří předkové navíc vysázeli parky a aleje v ulicích. Proč likvidovat toto stoleté bohatství bezmyšlenkovitým kácením jen proto, že kořen místy nadzdvihne dlažbu? I lesy na území města zaslouží citlivější přístup než mýcení a následnou výsadbu stejnověkého “pole na dřevo.” Léčba: Piráti budou prosazovat citlivější přístup při rozhodování o městké zeleni a při tvorbě lesního hospodářského plánu.
 
-Uzdravení Naším hlavním cílem je přeprogramovat myšlení města ve vztahu k občanům - “nevládneme”, pouze “spravujeme.” Navrácení důvěry v poctivost a schopnosti vedení umožní občanům vzít toto město skutečně za své. Tak, aby místo čekání, že město něco vyřeší, sami navrhli řešení a podíleli se na něm.
+**Uzdravení**  
+Naším hlavním cílem je přeprogramovat myšlení města ve vztahu k občanům - “nevládneme”, pouze “spravujeme.” Navrácení důvěry v poctivost a schopnosti vedení umožní občanům vzít toto město skutečně za své. Tak, aby místo čekání, že město něco vyřeší, sami navrhli řešení a podíleli se na něm.
