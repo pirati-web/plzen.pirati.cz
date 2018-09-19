@@ -9,9 +9,11 @@
      </a>
      <div class="c-widget-accordion-content text-center" data-tab-content="">
        <img src="{{ page.img | prepend: '/assets/img/' | relative_url}}" alt="{{page.name}}" style="margin: auto;">
+	   {% if page.profiles.flickr %}
        <div class="c-widget-accordion-content__cta">
          <a class="dark expanded button large" href="{{page.profiles.flickr}}"> Zobrazit více fotografii </a>
        </div>
+	   {% endif %}
      </div>
    </li>
  </ul>
