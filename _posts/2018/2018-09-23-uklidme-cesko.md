@@ -4,7 +4,7 @@ category:     blog
 tags:         Plzeň
 layout:       post
 title:        "Plzeňští Piráti uklízeli Plzeň" 
-image:        po_akci.jpg
+image:        po_akci.JPG
 author:       MS Plzeň
 ---
 
