@@ -2,7 +2,7 @@ version: '3'
 services:
   site:
     command: >
-      bash -c "export GOOGLE_CALENDAR_APIKEY=AIzaSyB9s6mgNy13Dx2WlbPoB9jNUnq1QdGqWEY && bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload --host 0.0.0.0"
+      bash -c "bundle install --path vendor/bundle && bundle exec jekyll serve --watch --livereload --host 0.0.0.0"
     build: .
     volumes:
       - .:/srv/jekyll
