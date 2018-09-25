@@ -1,11 +1,13 @@
 ---
 uid: roman.sedlacek
 name:     Roman Sedláček      		# běžně používáné jméno
-fullname: Roman Sedláček  		# jméno s tituly etc.
+titles:
+ before: 
+ after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - plzen
 img: people/roman-sedlacek.jpg           # 165 x 220
-description: bývalý koordinátor dobrovolníků pro Plzeňský kraj # kratký popis, max 160 znaků
+description: Kandidát na magistrát a ÚMO 2, člen MS Plzeň,# kratký popis, max 160 znaků
 mail:
 - roman.sedlacek@pirati.cz
 mob: +420 777 835 739

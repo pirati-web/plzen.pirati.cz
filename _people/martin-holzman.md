@@ -1,7 +1,9 @@
 ---
-uid: Martin.Holzman				# jak jste na fóru
+uid: martin.holzman				# jak jste na fóru
 name:     Martin Holzman  			# běžně používáné jméno
-fullname: Martin Holzman  	# jméno s tituly etc.
+titles:
+ before: 
+ after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
 - mag
 - plk
@@ -9,7 +11,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - umo1
 
 img: people/martin-holzman.jpg   # 165 x 220
-description: Člen MS Plzeň, kandidát na magistrát    # kratký popis, max 160 znaků
+description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň     # kratký popis, max 160 znaků
 mail: martin.holzman@pirati.cz
 mob: +420 733 488 720
 profiles:
@@ -17,7 +19,6 @@ profiles:
   facebook: 		  https://www.facebook.com/fraenir		#váš alias na facebooku - pokud nemáte, napište před to #
   
 ordplzen: 13		#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandidovat, napiš náhodné číslo větší než 10
-ordcar: 13	#pořadí na kandidátce; pokud ještě nemáš a chystáš se kandidovat, napiš náhodné číslo větší než 10
 
 --- 
 

@@ -1,55 +1,11 @@
 ---
-layout: default
+layout: members
+title: O nás
+description: Seznamte se s členy a příznivci Pirátů v Plzni.
+keywords: lidé, členové, piráti, pirátky, příznivci
 ---
-{% include submenu.html %}
-<div class="row o-section-block o-section-block--divided">
-    <div class="medium-12 large-12 columns">
-        <section class="o-section">
-            <div class="o-section-inner">
-                <main class="o-section-block">
-                    <div class="c-BasicPage">
-                        <div class="c-BasicPage-content">
-                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                              <li class="c-simple-accordion-item  is-active" data-accordion-item="">
-                                  <a href="#magistrat" class="c-simple-accordion-title">Kandidáti na plzeňský magistrát</a>
-                                  <div id="magistrat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'plzen'"  | where_exp:"item","item.categories contains 'mag'" | sort:"ordplzen" %}
-                                        {% include people/list-2col.html param=team %}
-                                  </div>
-                              </li>
-                          </ul>
-                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                              <li class="c-simple-accordion-item" data-accordion-item="">
-                                  <a href="#pms" class="c-simple-accordion-title">Místní předsednictvo</a>
-                                  <div id="pms" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'plzen'" | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
-                                      {% include people/list-2col.html param=team %}
-                                  </div>
-                              </li>
-                          </ul>
-                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                              <li class="c-simple-accordion-item" data-accordion-item="">
-                                  <a href="#sněmovna" class="c-simple-accordion-title">Pirátští poslanci</a>
-                                  <div id="sněmovna" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'psp'" | sort:"ordpsp" %}
-                                      {% include people/list-2col.html param=team %}
-                                  </div>
-                              </li>
-                          </ul>
-                          <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
-                              <li class="c-simple-accordion-item" data-accordion-item="">
-                                  <a href="#ms" class="c-simple-accordion-title">Plzeňští Piráti</a>
-                                  <div id="ms" class="c-simple-accordion-content" data-tab-content="">
-                                      {% assign team = site.people | where_exp:"item","item.categories contains 'plzen'" | sort:"ordplzen" %}
-                                      {% include people/list-2col.html param=team %}
-                                  </div>
-                              </li>
-                          </ul>
-                        </div>
-                    </div>
-                </main>
-            </div>
-        </section>
-        <!-- /. o-section -->
-    </div>
-</div>
+
+<blockquote class="c-blockquote c-blockquote--wicon">
+  <p>Mějme vždy na paměti: Běžný občan je až ten poslední, komu bychom chtěli něco zakazovat.</p>
+  <cite>Petr Vileta</cite>
+</blockquote>

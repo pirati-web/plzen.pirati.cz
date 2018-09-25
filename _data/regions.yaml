@@ -1,0 +1,25 @@
+- uid: plzen1
+  full_name: Plzeň 1
+  obvod: Plzeň 1
+  rank: 1
+  kontakt_id: magda.dankova
+- uid: plzen2
+  full_name: Plzeň 2-Slovany
+  obvod: Plzeň 2
+  rank: 2
+  kontakt_id: petr.vileta
+- uid: plzen3
+  full_name: Plzeň 3
+  obvod: Plzeň 3
+  rank: 3
+  kontakt_id: pavel.sramek
+- uid: plzen4
+  full_name: Plzeň 4
+  obvod: Plzeň 4
+  rank: 4
+  kontakt_id: tomas.pastircak
+- uid: plzen8
+  full_name: Plzeň 8-Černice
+  obvod: Plzeň 8
+  rank: 8
+  kontakt_id: vladimir.vapenik

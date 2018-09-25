@@ -1,7 +1,9 @@
 ---
 uid: miroslav.masek
 name:     Miroslav Mašek      		# běžně používáné jméno
-fullname: Miroslav Mašek  		# jméno s tituly etc.
+titles:
+ before: 
+ after: 
 category: plzen                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/miroslav-masek.jpg           # 165 x 220
 description: Koordinátor krajského sdružení # kratký popis, max 160 znaků

@@ -1,13 +1,15 @@
 ---
 uid: jana.tomsikova
 name:     Jana Tomšíková      		# běžně používáné jméno
-fullname: Mgr. Jana Tomšíková  		# jméno s tituly etc.
+titles:
+ before: Mgr.
+ after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - plzen
  - mag
  - umo4
 img: people/jana-tomsikova.jpg           # 165 x 220
-description: Kandidátka na magistrát a ÚMO 4 # kratký popis, max 160 znaků
+description: Kandidátka na magistrát a ÚMO 4, členka MS Plzeň # kratký popis, max 160 znaků
 ordplzen: 11
 ordplzen4: 2
 mail:

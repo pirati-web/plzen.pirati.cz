@@ -1,7 +1,9 @@
 ---
 uid: vladimir.vapenik
 name:     Vladimír Vápeník      # běžně používáné jméno
-fullname: Vladimír Vápeník      # jméno s tituly etc.
+titles:
+ before: 
+ after: 
 category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plk

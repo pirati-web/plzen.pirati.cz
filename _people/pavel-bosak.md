@@ -1,27 +1,24 @@
 ---
 uid: pavel.bosak
 name:     Pavel Bosák      		# běžně používáné jméno
-fullname: Pavel Bosák   		# jméno s tituly etc.
+titles:
+ before: 
+ after: 
 category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plzen
-- carousel
 img: people/pavel-bosak.jpg           # 165 x 220
 description: Lídr kandidátky na Magistrát města Plzně # kratký popis, max 160 znaků
 mail:
 - pavel.bosak@pirati.cz
 mob: +420 602 377 764
 ordplzen: 1
-ordcar : 1
 profiles:
   github: 
   facebook: https://www.facebook.com/pavel.bosak.5
   twitter:
   linkedin: 
-carousel:
-  img: pavel-bosak.jpg
-  text: |
-    <p>Lídr kandidátky na Magistrát města Plzně</p>
+
 ---
 <p>
 <strong>Pavel Bosák</strong> (*1970) pochází z Klatov, odkud se v r. 1986 ještě jako gymnazista vystěhoval společně s matkou, tehdy provdanou do San Francisca v USA. Od mládí toužil studovat archeologii, proto trávil letní prázdniny jako brigádník na vykopávkách s týmem ZČM v Plzni. Nakonec však převládl jeho výtvarný talent, takže vystudoval uměleckou grafiku na prestižní CCAC v kalifornském Oaklandu (Dnes CCA <a href="http://www.cca.edu" class="urlextern" title="http://www.cca.edu" rel="nofollow">www.cca.edu</a>). Brzy po studiích se na několik let vydal „na zkušenou“ do rodných Čech, odkud si zpět do USA přivezl svou budoucí manželku, plzeňskou rodačku Olgu. V San Franciscu pak společně založili grafickou firmu, kterou díky moderním technologiím provozují na dálku dodnes. 

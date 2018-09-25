@@ -5,7 +5,7 @@
     {
       "uid"      : "{{ person.uid }}",
       "name"     : "{{ person.name | escape }}",
-      "fullname" : "{{ person.fullname }}",
+      "fullname" : "{% include people/fullname.html person=person plain=true %}",
       "category" : "{{ person.categories | join: ' ' }}",
       "img"      : "{{ person.img | prepend: '/assets/img/' | relative_url }}",
       "mail"     : "{{ person.mail | join: ','}}",

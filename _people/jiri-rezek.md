@@ -1,14 +1,16 @@
 ---
 uid: jiri.rezek
 name:    Jiří Rezek 					# běžně používáné jméno
-fullname: Ing. Jiří Rezek, Ph.D.  		# jméno s tituly etc.
+titles:
+ before: Ing.
+ after: Ph.D.
 category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plk
 - plzen                 		
-- carousel
+
 img: people/jiri-rezek.jpg           # 165 x 220
-description: Místopředseda krajského sdružení Plzeňský kraj # kratký popis, max 160 znaků
+description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň, místopředseda KS Plzeňský kraj # kratký popis, max 160 znaků
 mail:
 - jiri.rezek@pirati.cz
 mob: 
@@ -19,11 +21,8 @@ profiles:
   github: 
   facebook: https://www.facebook.com/jiri.rezek.1
   twitter:
-  linkedin: https://www.linkedin.com/in/pavel-šrámek-636823b7/ 
-carousel:
-  img: jiri-rezek.jpg
-  text: |
-    <p>Místopředseda krajského sdružení Plzeňský kraj  </p>
+  linkedin: 
+
 ---
 
 Ing. Jiří Rezek, Ph.D. (* 23. leden 1983) je členem Republikového výboru České pirátské strany. U Pirátů je od jejich vzniku na Ustavujícím fóru.

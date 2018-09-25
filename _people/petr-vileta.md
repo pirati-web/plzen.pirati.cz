@@ -1,17 +1,17 @@
 ---
 uid: petr.vileta
 name:     Petr Vileta  	# běžně používáné jméno
-fullname: Petr Vileta  	# jméno s tituly etc.
+titles:
+ before: 
+ after: 
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plk
 - plzen
 - pms
-- carousel
 img: people/petr-vileta.jpg   # 165 x 220
-description: Místopředseda místního sdružení Plzeň            	# kratký popis, max 160 znaků
+description: Lídr kandidátky ÚMO 2, kandidát na magistrát, místopředseda MS Plzeň            	# kratký popis, max 160 znaků
 ordplzen: 5
-ordcar : 5
 ordpms : 4
 mail:
 - petr.vileta@pirati.cz
@@ -23,10 +23,7 @@ profiles:
   flickr:     		  
 report: 
 redmine: 
-carousel:
-  img: petr-vileta.jpg
-  text: |
-    <p>Místopředseda místního sdružení Plzeň<br>Lídr kandidátky na ÚMO-2 </p>
+
 ---
 (* 6.7.1956 v Plzni, † *zatím ne*). Je ženatý od roku 1980, pořád s tou samou ženou, a bezdětný.
 

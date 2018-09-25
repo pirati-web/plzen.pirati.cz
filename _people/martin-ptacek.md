@@ -1,13 +1,15 @@
 ---
 uid: martin.ptacek
 name:     Martin Ptáček   	    # běžně používáné jméno
-fullname: Ing. Martin Ptáček  	# jméno s tituly etc.
+titles:
+ before: Ing.
+ after: 
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plzen
 - plk
 img: people/martin-ptacek.jpg   # 165 x 220
-description: Člen MS Plzeň, kandidát na magistrát         	# kratký popis, max 160 znaků
+description: Kandidát na magistrát a ÚMO 3, člen MS Plzeň         	# kratký popis, max 160 znaků
 mail:
 - martin.ptacek@pirati.cz
 mob:			  +420 606 103 139
@@ -15,14 +17,8 @@ profiles:
   github:         https://github.com/Heky
   facebook: 		  https://www.facebook.com/Hekycz
   twitter: 		  https://twitter.com/maptacek
-#ordpraha: 1
-#ordpks: 2
-#ordcar: 2
 ordplzen: 9
-carousel:
-  img: martin-ptacek.jpg
-  text: |
-    <p>Člen krajského sdružení Pirátů v Plzni. </p>
+
 ---
 **Ing. Martin Ptáček** (* 17. listopadu 1985) Je člen pirátské strany. Příznivcem od roku 2010. Pochází z Chebu a od roku 2005 žije v Plzni.
 

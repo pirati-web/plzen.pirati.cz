@@ -1,7 +1,9 @@
 ---
 uid: jiri.hanousek
 name:     Jiří Hanousek      		# běžně používáné jméno
-fullname: Ing. Jiří Hanousek  		# jméno s tituly etc.
+titles:
+ before: Ing.
+ after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - plzen
  - mag
