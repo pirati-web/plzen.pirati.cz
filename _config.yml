@@ -83,7 +83,7 @@ sass:
   sass_dir: _sass
 
 markdown: kramdown
-remote_theme: pirati-web/jekyll-theme-pirati
+theme: jekyll-theme-pirati
 plugins:
   - jekyll-feed
   - jekyll-paginate
