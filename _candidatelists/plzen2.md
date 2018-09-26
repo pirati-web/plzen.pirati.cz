@@ -14,7 +14,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 26
     profession: správce pohledávek
     party: Piráti
-  - name: Bc. Filip Sequens
+  - uid: filip.sequens
     age: 36
     profession: pedagog
     party: Piráti

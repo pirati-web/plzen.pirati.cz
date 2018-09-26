@@ -1,6 +1,8 @@
 title: Pirátská strana Plzeň
 email: to@pirati.cz
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://plzen.pirati.cz" # the base hostname & protocol for your site
 
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
@@ -42,7 +44,7 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
+  title: Nejbližší akce
   id: fstbrgjct7a7cvkidpp08bit48@group.calendar.google.com
   page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 

@@ -7,7 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - plzen
 img: people/roman-sedlacek.jpg           # 165 x 220
-description: Kandidát na magistrát a ÚMO 2, člen MS Plzeň,# kratký popis, max 160 znaků
+description: Kandidát na magistrát a ÚMO 2, člen MS Plzeň
 mail:
 - roman.sedlacek@pirati.cz
 mob: +420 777 835 739

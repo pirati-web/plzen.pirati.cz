@@ -12,8 +12,8 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 img: people/tomas-pastircak.jpg   # 165 x 220
 description: Člen MS Plzeň, kandidát na magistrát    # kratký popis, max 160 znaků
 mail:
-- Tomas.Pastircak@pirati.cz
-mob:			  +420 724 692 024
+- tomas.pastircak@pirati.cz
+mob:  +420 724 692 024
 profiles:
   github:                 https://github.com/TomasPastircak	#váš účet na githubu - pokud nemáte, napište před to #
   facebook: 		  https://www.facebook.com/fraenir		#váš alias na facebooku - pokud nemáte, napište před to #

@@ -2,7 +2,7 @@
 uid: filip.sequens
 name:     Filip Sequens      		# běžně používáné jméno
 titles:
- before: 
+ before: Bc.
  after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - plzen

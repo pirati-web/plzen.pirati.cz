@@ -69,7 +69,7 @@ tail: # zbytek kandidatky
     age: 57
     profession: obchodní manažer
     party: Piráti
-  - name: Michaela Černá
+  - name: Mgr. Michaela Černá
     age: 29
     profession: manažer
     party: Piráti
