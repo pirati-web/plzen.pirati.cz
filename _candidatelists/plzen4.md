@@ -6,7 +6,7 @@ leader:
   uid: tomas.pastircak
   age: 29
   profession: programátor
-  description: 
+  description: Kandidát na starostu Plzně 4, Programátor finančních systémů se sedmiletou praxí, správce webu plzen.pirati.cz, kytarista a dopravní nadšenec
   party: Piráti
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
@@ -14,6 +14,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 49
     profession: učitelka, redaktorka, autorka učebních materiálů
     party: Piráti
+    description: Učitelka zabývající se otázkou vázaného a nevázaného písma, interaktivním způsobem výuky, redaktorka učebnic matematiky prof. Hejného a matematiky se Čtyřlístkem
   - uid: jiri.hanousek
     age: 43
     profession: stavební inženýr, předseda Náš Bukovec z.s.
