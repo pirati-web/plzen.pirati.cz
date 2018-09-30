@@ -1,0 +1,75 @@
+.c-profile-badge {
+  height: 100%;
+  display: flex;
+}
+
+.c-profile-badge__anchor {
+  display: block;
+}
+
+.c-profile-badge__body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.c-profile-badge__avatar {
+  padding-right: 1rem;
+  display: flex;
+}
+
+.c-profile-badge .c-profile-badge__image {
+  display: block;
+}
+
+.c-profile-badge__image--round {
+  border-radius: 50%;
+}
+
+.c-profile-badge__image--smaller {
+  width: 100px;
+}
+
+.c-profile-badge__headline {
+  margin-bottom: 0;
+}
+
+.c-profile-badge__desc {
+  margin-top: -.5rem;
+  margin-bottom: 0;
+  max-width: 200px;
+}
+
+.c-profile-badge__contacts {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.c-profile-badge--bottomalign {
+  .c-profile-badge__contacts {
+    flex-grow: initial;
+  }
+
+  .c-profile-badge__body {
+    justify-content: flex-end;
+  }
+}
+
+.c-profile-badge--stacked {
+  + .c-profile-badge--stacked {
+    margin-top: 1rem;
+  }
+}
+
+.c-profile-badge--centered {
+  .c-profile-badge__body {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .c-profile-badge__contacts {
+    margin-top: 1rem;
+  }
+}

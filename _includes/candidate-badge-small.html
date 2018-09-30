@@ -1,0 +1,24 @@
+{% capture label %}
+    {% if include.item.name %}{% include people/fullname.html person=include.item%}{% endif %}
+{% endcapture %}
+{% if include.item.url contains 'http' %}
+    {% assign url = include.item.url %}
+{% else %}
+    {% assign url = include.item.url | relative_url %}
+{% endif %}
+<div class="c-profile-badge c-profile-badge__vertical">
+    <div class="c-profile-badge__avatar">
+      {%- capture img -%}
+        {%- if include.item.img -%}
+            {% asset '{{ include.item.img }}' magick:resize='165x165^' magick:gravity='center' magick:crop='165x165+0+0' @path %}
+        {%- else -%}
+          {{ 'assets/img/people/unknown-pirate.svg' | relative_url }}
+        {%- endif -%}
+      {%- endcapture -%}
+      <a class="c-profile-badge__anchor" href="{{ url }}"><img src="{{ img }}" alt="{{ include.item.name }}" class="c-profile-badge__image c-profile-badge__image--round"></a>
+    </div>
+
+    <div class="c-profile-badge--centered">
+        <h2 class="c-profile-badge__headline"><a href="{{ url }}" class="t-h5">{{ label }}</a></h2>
+    </div>
+</div>
