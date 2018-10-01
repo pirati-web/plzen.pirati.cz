@@ -6,7 +6,9 @@ leader:
   uid: pavel.sramek
   age: 27
   profession: podnikatel, student, předseda místního sdružení Pirátů
-  description: 
+  description: Mladý charismatický podnikatel studující právnickou fakultu ZČU, zajímající se o politiku a veřejné dění.
+
+
   party: Piráti
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
@@ -14,14 +16,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 44
     profession: právník, provozovatel e-shopu
     party: Piráti
+    description: Právník, jednatel a majitel společnosti zabývající se mezinárodním obchodem a internetovým maloobchodem, díky které získal zkušenosti nejen v oblasti online marketingu, ale i managerské schopnosti vést tým a jednat s lidmi.
   - uid: martin.ptacek
     age: 32
     profession: IT specialista
     party: Piráti
+    description: Bývalý člen akademického senátu ZČU. Softwarový tester v české firmě s nadnárodní působností.
   - uid: marek.habrun
     age: 29
     profession: stavební projektant
     party: Piráti
+    description: Stavební projektant. Studoval stavební inženýrství na ZČU v Plzni.
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb

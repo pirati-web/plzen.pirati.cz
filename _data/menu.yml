@@ -23,9 +23,12 @@ main:
       - link: /program/
         name: Program
         match: program
-  - link: /povolebni-strategie/
-    name: Povolební strategie
-    match: povolebni-strategie
+      - link: /povolebni-strategie/
+        name: Povolební strategie
+        match: povolebni-strategie
+      - link: /otevrenost/
+        name: Otevřenost
+        match: otevrenost
   - link: /kontakt/
     name: Kontakt
     match: kontakt

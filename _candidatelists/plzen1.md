@@ -53,7 +53,7 @@ tail: # zbytek kandidatky
      age: 48
      profession: šéfkuchař
      party: bez politické příslušnosti
-   - name: Yen Do Hai
+   - name: Hanka Do Thi
      age: 19
      profession: student
      party: bez politické příslušnosti
