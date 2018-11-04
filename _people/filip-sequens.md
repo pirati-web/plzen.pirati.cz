@@ -12,7 +12,6 @@ img: people/filip-sequens.jpg           # 165 x 220
 description: Kandidát na magistrát a ÚMO 2, člen MS Plzeň       
 mail:
 - filip.sequens@pirati.cz
-mob: +420 732 722 842
 profiles:
   github:
   facebook:				
