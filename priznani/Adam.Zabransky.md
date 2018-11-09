@@ -1,9 +1,9 @@
 ---
-"Funkcionář":        Adam Zábranský
-"Datum narození":    28. 12. 1993
-"E-mail":            adam.zabransky@pirati.cz
+"Funkcionář":        Pavel Bosák
+"Datum narození":    x. x. 19xx
+"E-mail":            pavel.bosak@pirati.cz
 "Politická strana":  Česká pirátská strana
-"Orgán":             zastupitelstvo hlavního města Prahy
+"Orgán":             zastupitelstvo města Plzně
 "Funkce":            člen zastupitelstva
 ---
 
@@ -21,12 +21,12 @@ Aktuální informace o stavu jmění
 
 | Popis věci            | Odhad hodnoty |  Převažující zdroj prostředků                 |
 | --------------------- | ------------: |  ---------------------- |
-| Chatka s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | kupní cena 250 000 Kč | dar od prarodičů a rodičů |
-| volné prostředky na účtu a v hotovosti | kolísavé - nízké stovky tisíc Kč | měsíční příjmy (viz níže), peníze vybrané ze stavebního spoření |
-| Investiční fond Pioneer Investments | 150 000 Kč | měsíční příjmy (viz níže) |
-| Akcie (na české i americké burze - konkrétní akcie se mění, na vyžádání předám aktuální seznam) | kolísavé, okolo 150 000 Kč | měsíční příjmy (viz níže) |
-| Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy (viz níže) |
-| Různé kryptoměny | značně kolísavé - několik desítek tisíc Kč | měsíční příjmy (viz níže) |
+| !např!Chatka s pozemkem s celkovou rozlohou 400 metrů čtverečních v Čerčanech | kupní cena 250 000 Kč | dar od prarodičů a rodičů |
+| !např!volné prostředky na účtu a v hotovosti | kolísavé - nízké stovky tisíc Kč | měsíční příjmy (viz níže), peníze vybrané ze stavebního spoření |
+| !např!Investiční fond Pioneer Investments | 150 000 Kč | měsíční příjmy (viz níže) |
+| !např!Akcie (na české i americké burze - konkrétní akcie se mění, na vyžádání předám aktuální seznam) | kolísavé, okolo 150 000 Kč | měsíční příjmy (viz níže) |
+| !např!Dluhopis společnosti DRFG, a.s. | 50 000 Kč | měsíční příjmy (viz níže) |
+| !např!Různé kryptoměny | značně kolísavé - několik desítek tisíc Kč | měsíční příjmy (viz níže) |
 
 ### Dluhy
 
@@ -62,4 +62,4 @@ Viz [rozpis odměn].
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě.
 
-Adam Zábranský
+Pavel Bosák
