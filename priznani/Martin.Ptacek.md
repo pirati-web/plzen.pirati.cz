@@ -1,6 +1,6 @@
 ---
 "Funkcionář":        Martin Ptáček
-"Datum narození":    x. x. 19xx
+"Datum narození":    17. 11. 1985
 "E-mail":            martin.ptacek@pirati.cz
 "Politická strana":  Česká pirátská strana
 "Orgán":             zastupitelstvo 3. obvodu Plzně
