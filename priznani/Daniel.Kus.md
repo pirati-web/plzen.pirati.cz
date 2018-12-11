@@ -1,5 +1,5 @@
 ---
-"Funkcionář":        Pavel Bosák
+"Funkcionář":        Daniel Kůs
 "Datum narození":    x. x. 19xx
 "E-mail":            pavel.bosak@pirati.cz
 "Politická strana":  Česká pirátská strana
@@ -62,4 +62,4 @@ Viz [rozpis odměn].
 
 Prohlašuji, že jsem výše uvedené údaje uvedl úplně a pravdivě.
 
-Pavel Bosák
+Daniel Kůs
