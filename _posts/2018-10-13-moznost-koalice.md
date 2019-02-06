@@ -4,7 +4,7 @@ category:     blog
 tags:         Plzeň
 layout:       post
 title:        "Piráti otevírají možnost pro stabilní plzeňskou koalici" 
-image:        posts/LOGO_MS_PLZEN.JPG
+image:        posts/logo-ms-plzen.jpg
 author:       Pavel Šrámek
 ---
 
