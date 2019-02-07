@@ -29,6 +29,9 @@ main:
       - link: /otevrenost/
         name: Otevřenost
         match: otevrenost
+  - link: /rozpocet/
+    name: Otevřená Plzeň
+    match: otevrena-plzen
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -50,6 +53,8 @@ bottom:
         name: Program
       - link: /aktuality/
         name: Aktuality
+      - link: /rozpocet/
+        name: Otevřená Plzeň
   - class: small-12 medium-4
     title: Otevřenost
     links:
