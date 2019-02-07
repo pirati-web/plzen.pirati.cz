@@ -12,7 +12,7 @@ Plzeňští Piráti plní sliby. Zaměřili se na transparentní účetnictví m
 
 „Rozklikávací rozpočet na úroveň faktur jsme voličům slíbili v našem programu, proto jsem se ihned po volbách zaměřil na projekt Cityvizor, který umožní Plzeňákům na jedné stránce ukázat údaje o rozpočtu města, plnění rozpočtu, smlouvy uveřejněné v registru smluv a přehlednou elektronickou úřední desku“, říká předseda Plzeňských Pirátů, Pavel Šrámek.  
 
-Toto vše má občan možnost vidět na stránce https://plzen.pirati.cz/rozpocet/. V budoucnu bude možnost nahrát do databáze aktuální plnění rozpočtu a všechny faktury města Plzně. Jedná se o jedinou stránku na světě, která graficky zobrazí rozpočet města Plzně a jeho plnění, elektronickou úřední desku města Plzně a smlouvy uzavřené s Plzní uveřejněné v registru smluv.
+Toto vše má občan možnost vidět na stránce [url]https://plzen.pirati.cz/rozpocet/[/url]. V budoucnu bude možnost nahrát do databáze aktuální plnění rozpočtu a všechny faktury města Plzně. Jedná se o jedinou stránku na světě, která graficky zobrazí rozpočet města Plzně a jeho plnění, elektronickou úřední desku města Plzně a smlouvy uzavřené s Plzní uveřejněné v registru smluv.
 
 Plzeňští Piráti tento projekt představili i na městském zastupitelstvu, které se konalo ve čtvrtek 7.2. Věří v to, že se projekt zalíbí plzeňským občanům a vytvoří tak tlak na ostatní zastupitele napříč politickým spektrem. 
 
