@@ -3,7 +3,7 @@ date:         2019-02-07
 category:     blog
 tags:         Plzeň Zastupitelstvo program transparence cityvizor 
 layout:       post
-title:        "Piráti Plzeň: Lék na korupci je průhlednost hospodaření" 
+title:        "Lék na korupci je průhlednost hospodaření" 
 image:        posts/cityvizor-plzen-sramek.jpeg
 author:       Pavel Šrámek
 ---
@@ -18,4 +18,4 @@ Plzeňští Piráti tento projekt představili i na městském zastupitelstvu, k
 
 „Tento projekt je přesně to, co Plzni chybělo. Občan si může kdykoliv ověřit hospodaření města až do roviny faktur. Nevím, proč by stávající rada města měla tento projekt odmítnout, pokud se ovšem nebojí kostlivců ve skříní. Plzeň hospodaří především z peněz občanů, proto mají občané právo na transparentní přehled financí“, dodává Pavel Bosák, předseda zastupitelského klubu Pirátů v Plzni.
 
-  
+Aplikace Cityvizor pro město Plzeň je dostupná na této adrese: https://plzen.pirati.cz/rozpocet
