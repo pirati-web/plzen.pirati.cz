@@ -1,7 +1,7 @@
 ---
 date:         2019-03-19
 category:     blog
-tags:         Plzeň Zastupitelstvo program transparence verejny zajem plzenska teplarenska kaly AVE zastrasovani 
+tags:         Plzeň Zastupitelstvo program transparence otazky
 layout:       post
 title:        "Piráti se ptají v zájmu veřejnosti" 
 image:        posts/pirati-se-ptaji-v-zajmu-verejnosti.JPG
