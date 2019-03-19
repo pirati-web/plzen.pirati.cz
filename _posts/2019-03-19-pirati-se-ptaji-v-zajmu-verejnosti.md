@@ -17,3 +17,4 @@ Otevřené informování veřejnosti patří k pilířům Pirátského programu.
 Piráti také usilovali o možnost kontrolovat práci nového vedení v dozorčích radách městských firem, nicméně koalice si vše podržela. „Nepustili nás do dozorčí rady a diví se, že se ptáme na informace, ke kterým nemáme přístup. Politika je věc veřejná, proto se ptáme veřejně,“ glosuje situaci Pavel Bosák.
 
 V zájmu teplárny i vedení města mělo být otevřené a poctivé informování veřejnosti k předejití různých fám. Snahou Pirátů bylo tyto fámy rozptýlit, což se díky jejich činnosti povedlo.
+
