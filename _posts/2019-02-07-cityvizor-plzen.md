@@ -4,7 +4,7 @@ category:     blog
 tags:         Plzeň Zastupitelstvo program transparence cityvizor 
 layout:       post
 title:        "Lék na korupci je průhlednost hospodaření" 
-image:        posts/cityvizor-plzen-sramek.JPG
+image:        posts/cityvizor-plzen-sramek.jpeg
 author:       Pavel Šrámek
 ---
 
