@@ -4,13 +4,13 @@ name:     Petr Vileta  	# běžně používáné jméno
 titles:
  before: 
  after: 
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+category:                 	# kategorie: plzen, plk
 - mag
 - plk
 - plzen
 - pms
 img: people/petr-vileta.jpg   # 165 x 220
-description: Lídr kandidátky ÚMO 2, kandidát na magistrát, místopředseda MS Plzeň            	# kratký popis, max 160 znaků
+description: Zastupitel města Plzně, zastupitel Městského obvodu Plzeň-2, člen finančních výborů obou zatupitelstev            	# kratký popis, max 160 znaků
 ordplzen: 5
 ordpms : 4
 mail:
