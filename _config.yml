@@ -7,7 +7,7 @@ url: "https://plzen.pirati.cz" # the base hostname & protocol for your site
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 administrator:
-  email: tomas.pastircak@pirati.cz
+  email: tomas.pastircak@pirati.cz,martin.ptacek@pirati.cz
 
 organization:
   name: Česká pirátská strana Plzeň
