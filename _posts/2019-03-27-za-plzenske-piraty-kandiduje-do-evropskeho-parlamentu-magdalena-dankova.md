@@ -11,7 +11,7 @@ author:       MS Plzeň
 
   
 
-*“Velmi si cením projevené důvěry. Volby do europarlamentu jsou velmi důležitým milníkem pro nadcházející směr Evropy a jsem ráda, že mohu být její součásti. Byť legislativa evropského parlamentu nám může připadat vzdálená a složitá, rozhoduje o kvalitě našich každodenních životech a je třeba si to uvědomit.
+“Velmi si cením projevené důvěry. Volby do europarlamentu jsou velmi důležitým milníkem pro nadcházející směr Evropy a jsem ráda, že mohu být její součásti. Byť legislativa evropského parlamentu nám může připadat vzdálená a složitá, rozhoduje o kvalitě našich každodenních životech a je třeba si to uvědomit.
 
 Nejen Evropský parlament, ale celkově Evropská Unie bývá mnohdy v dnešní době démonizována. Ti, kteří tak činí už však zamlčují, jaký vliv má a může mít na její samotné fungování každý z nás. A na místo poukazování na nesmyslné zákazy a diktát z Bruselu naopak každý občan může pocítit výhody, které EU přináší a usnadňuje život. Nejen v podobě volného cestování nebo jednotných mobilních tarifů.
 
@@ -20,7 +20,7 @@ EP nesmí stát cestě svobody slova a šíření informací. Články 11 a 13 c
 
 Evropa se nesmí stát dvourychlostní, jak už to dnes vidíme například i v dvojí kvalitě potravin. Např. dle výzkumů potraviny starých členských státu EU jsou vyšší kvality než potraviny nových členských států. Odmítáme být popelnicí Evropy. Ne nadarmo se říká - jsme to, co jíme. Dvojí kvalita se netýká jen potravin, ale také zboží.
 
-Chceme propojenou Evropu přeshraniční spolupráce regionů, podporujeme také rychlovlaky, díky kterým dojde ke zvýšení možnosti pestrosti volby pracovních příležitostí a v neposlední řadě výměnné pobyty studentů i učitelů zejména do zemí nejlepším hodnocením dle OECD (Finsko, Estonsko apod.) .”*
+Chceme propojenou Evropu přeshraniční spolupráce regionů, podporujeme také rychlovlaky, díky kterým dojde ke zvýšení možnosti pestrosti volby pracovních příležitostí a v neposlední řadě výměnné pobyty studentů i učitelů zejména do zemí nejlepším hodnocením dle OECD (Finsko, Estonsko apod.) .”
 
 uvedla po zvolení **Magdaléna Daňková** svou motivaci.
 
