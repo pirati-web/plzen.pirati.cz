@@ -16,7 +16,7 @@ author:       MS Plzeň
 Nejen Evropský parlament, ale celkově Evropská Unie bývá mnohdy v dnešní době démonizována. Ti, kteří tak činí už však zamlčují, jaký vliv má a může mít na její samotné fungování každý z nás. A na místo poukazování na nesmyslné zákazy a diktát z Bruselu naopak každý občan může pocítit výhody, které EU přináší a usnadňuje život. Nejen v podobě volného cestování nebo jednotných mobilních tarifů.
 
 K lepšímu žití v Evropě je toho však nutné udělat ještě více.
-EP nesmí stát cestě svobody slova a šíření informací. Články 11 a 13 copywrightové směrnice jsou největším “náhubkovým” omylem, který se na plénum Evropského parlamentu mohl dostat. Stejně tak historicky i transatlantické smlouvy, které se projednávali za zavřenými dveřmi.
+EP nesmí stát cestě svobody slova a šíření informací. Články 11 a 13 copywrightové směrnice jsou největším “náhubkovým” omylem, který se na plénum Evropského parlamentu mohl dostat. Stejně tak historicky i transatlantické smlouvy, které se projednávaly za zavřenými dveřmi.
 
 Evropa se nesmí stát dvourychlostní, jak už to dnes vidíme například i v dvojí kvalitě potravin. Např. dle výzkumů potraviny starých členských státu EU jsou vyšší kvality než potraviny nových členských států. Odmítáme být popelnicí Evropy. Ne nadarmo se říká - jsme to, co jíme. Dvojí kvalita se netýká jen potravin, ale také zboží.
 
