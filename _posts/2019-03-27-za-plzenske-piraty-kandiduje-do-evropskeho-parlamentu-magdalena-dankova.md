@@ -24,7 +24,7 @@ Chceme propojenou Evropu přeshraniční spolupráce regionů, podporujeme také
 
 uvedla po zvolení **Magdaléna Daňková** svou motivaci.
 
-Potkat ji můžete např. krajských veřejných schůzích plzeňského kraje nebo na akci ukliďme Česko v Sušici (6.4. ) a v Klatovech (5.5. ) či na akci piráti na pivo 16.4. od 18h v Bolevecké hospůdce.
+Potkat ji můžete např.na krajských veřejných schůzích plzeňského kraje, akci ukliďme Česko v Klatovech (5.5. ), či na akci setkání s kandidáty do Evropského parlamentu a Ivanem Bartošem 28.4. ve 13h na náměstí v Domažlicích či 1.5. na piknikové louce v Chebu.
 
 Piráti v květnových volbách do Evropského parlamentu cílí na vítězství. Podle předsedy strany Ivana Bartoše by Piráti mohli dosáhnout až 20 procent hlasů a porazit hnutí ANO Andreje Babiše. Plzeňský kraj bude dalším důležitým volební kolbištěm.
 
