@@ -11,8 +11,12 @@ author:       Frantisek Hagara
 Městský obvod 1 překvapivě odmítl pořizování videozáznamu jednání navržené Piráty, a to době,
 kdy se videozáznamy stávají obvyklým doplňkem každého moderního zasedání. V Plzni chybí již
 jen na UMO 1 a UMO 4.
+
+
 Městský obvod 1 má přesně opačný názor. Jako důvod uvádějí nákladnost a nepotřebnost. To
 vyznívá jako zvláštní argument, jelikož statická kamera se dá pořídit již kolem 15 000 Kč.
+
+
 Zastupitelé jsou veřejně činnými osobami, a jako činitelé veřejnosti musí počítat s tím, že budou
 exponováni na veřejnosti. "Považujeme to za útok na informovanost občanů. Občané si zaslouží
 mít možnost sledovat zastupitelstvo, v případě nemoci či pracovní vytíženosti. Kolegům z hnutí
