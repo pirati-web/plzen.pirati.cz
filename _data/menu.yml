@@ -16,9 +16,9 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
+  - link: /program/
+    name: Program
+    match: program
     submenu:
       - link: /program/
         name: Program
@@ -47,8 +47,6 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Komunální volby
       - link: /program/
         name: Program
       - link: /aktuality/
