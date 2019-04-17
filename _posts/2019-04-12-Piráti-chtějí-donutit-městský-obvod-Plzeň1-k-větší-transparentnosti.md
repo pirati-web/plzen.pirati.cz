@@ -5,7 +5,7 @@ tags:         Plzeň MO Plzeň1
 layout:       post
 title:        "Piráti chtějí donutit městský obvod Plzeň 1 k větší transparentnosti" 
 image:        posts/foto-10-4-Zastupitelstvo-UMO1-Plzeň.jpg
-author:       MS Plzeň
+author:       Zastupitelský klub Plzeň 1
 ---
 
 
