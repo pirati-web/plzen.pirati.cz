@@ -10,7 +10,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - plzen
 
 img: people/frantisek-hagara.jpg   # 165 x 220
-description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň   # kratký popis, max 160 znaků
+description: Zastupitel MO Plzeň 1, člen finančního výboru ZMO Plzeň 1, člen bezpečnostní komise ZMO Plzeň 1 a Města Plzně, člen MS Plzeň   # kratký popis, max 160 znaků
 mail:
 - frantisek.hagara@pirati.cz
 mob: 
