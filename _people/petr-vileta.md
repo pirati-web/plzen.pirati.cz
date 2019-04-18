@@ -10,7 +10,7 @@ category:                 	# kategorie: plzen, plk
 - plzen
 - pms
 img: people/petr-vileta.jpg   # 165 x 220
-description: Zastupitel města Plzně, zastupitel Městského obvodu Plzeň-2, člen finančních výborů obou zatupitelstev            	# kratký popis, max 160 znaků
+description: Zastupitel města Plzně, zastupitel Městského obvodu Plzeň-2, člen finančních výborů obou zastupitelstev            	# kratký popis, max 160 znaků
 ordplzen: 5
 ordpms : 4
 mail:
