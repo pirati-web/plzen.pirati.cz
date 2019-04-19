@@ -15,7 +15,7 @@ mail:
 mob: +420 773 451 982
 profiles:
   github:
-  facebook:				
+  facebook:	https://www.facebook.com/filippm		 #váš alias na facebooku - pokud nemáte, napište před to #	
   twitter:
   linkedin: 
 ---
