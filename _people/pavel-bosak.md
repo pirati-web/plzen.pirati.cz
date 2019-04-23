@@ -8,7 +8,7 @@ category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plzen
 img: people/pavel-bosak.jpg           # 165 x 220
-description: Lídr kandidátky na Magistrát města Plzně # kratký popis, max 160 znaků
+description: Předseda zastupitelského klubu na Magistrátu města Plzně # kratký popis, max 160 znaků
 mail:
 - pavel.bosak@pirati.cz
 mob: +420 602 377 764
