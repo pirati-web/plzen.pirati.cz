@@ -10,7 +10,7 @@ category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - plzen                 		
 - pms
 img: people/pavel-sramek.jpg           # 165 x 220
-description: Lídr kandidátky ÚMO 3, kandidát na magistrát, předseda MS Plzeň # kratký popis, max 160 znaků
+description: Předseda zastupitelského klubu Pirátů na ÚMO 3, zastupitel na magistrátu, předseda MS Plzeň # kratký popis, max 160 znaků
 mail:
 - pavel.sramek@pirati.cz
 mob: +420 777 300 508 
