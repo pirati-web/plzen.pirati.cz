@@ -10,7 +10,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - plzen
 
 img: people/marek-habrun.jpg   # 165 x 220
-description: kandidát na magistrát a ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
+description: Zastupitel na ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
 mail:
 - marek.habrun@pirati.cz
 mob: 
