@@ -10,7 +10,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - plzen
 
 img: people/daniel-kus.jpg   # 165 x 220
-description: zastupitel na magistrátu a ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
+description: Zastupitel na magistrátu a ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
 mail:
 - daniel.kus@pirati.cz
 mob: 
