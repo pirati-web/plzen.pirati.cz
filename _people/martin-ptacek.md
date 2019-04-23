@@ -9,7 +9,7 @@ category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - plzen
 - plk
 img: people/martin-ptacek.jpg   # 165 x 220
-description: Kandidát na magistrát a ÚMO 3, člen MS Plzeň         	# kratký popis, max 160 znaků
+description: Zastupitel centrálního městského obvodu UMO 3, místopředseda MS Plzeň         	# kratký popis, max 160 znaků
 mail:
 - martin.ptacek@pirati.cz
 mob:			  +420 606 103 139
@@ -28,4 +28,6 @@ Na univerzitě se také angažoval ve studentské samosprávě a byl členem aka
 
 Prošel několika firmami, kde se věnoval převážně testování softwarových aplikací a správě operačních systémů. V současnosti pracuje jako tester v české firmě s nadnárodní působností.
 
-Angažuje se v pořádání celouniverzitního pochodu Exodus.(Dnes už jen jako poradce.) Jeho zájmy jsou cyklistika, frisbee a občasný žejdlík plzeňského zlatého moku.
+Zastupitel na centrálním Plzeňském obvodě UMO 3, člen komise pro dopravu při radě města Plzně, člen komise pro investice a údržbu při radě UMO 3, místopředseda místního sdružení Pirátů v Plzni.
+
+Angažuje se v pořádání celouniverzitního pochodu Exodus.(Dnes už jen jako poradce.) Jeho zájmy jsou cyklistika, acroyoga, tanec, frisbee a občasný žejdlík plzeňského zlatého moku.
