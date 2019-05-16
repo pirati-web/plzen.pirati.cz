@@ -10,7 +10,7 @@ category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - plzen                 
 - pms
 img: people/magdalena-dankova.jpg           # 165 x 220
-description: Lídryně kandidátky ÚMO 1, kandidátka na magistrát, Místopředsedkyně MS Plzeň # kratký popis, max 160 znaků
+description: Zastupitelka na ÚMO 1 a na magistrátu města Plzně, vedoucí mediálního teamu MS Plzeň # kratký popis, max 160 znaků
 mail:
 - magda.dankova@pirati.cz
 mob: +420 778 501 029
@@ -24,9 +24,8 @@ profiles:
   linkedin: 
 
 ---
+“Information is power. But like all power, there are those who want to keep it for themselves.” ― Aaron Swartz
 
-Magda Daňková (* 20. května 1982 Plzeň) je členkou Pirátské strany od roku 2015 v MS Plzeň, kde je i místopředsedkyní. V Plzeňském kraji zastává funkci místopředsedkyně kraje. Pracuje jako učitelka na základní škole. Bydlí v Plzni, kde vychodila základní školu. Poté vystudovala a odmaturovala na Masarykově gymnáziu v Plzni. Studovala na Západočeské univerzitě fakultu pedagogickou, obor matematika a chemie.
+Magdaléna Daňková je členkou Pirátské strany od roku 2015, bývalá místopředsedkyně místního sdružení Pirátů Plzeň, zastupitelka městského obvodu 1 i města Plzně a zároveň kandidátka do evropského parlamentu za plzeňský kraj za piráty. Vystudovala matematiku a chemii na Západočeské univerzitě, což je obor, ve kterém posledních 6 let působí. Má ráda život a cestování po světě. Ráda poznává cizí exotické kultury a kraje. Bojové sporty, tanec a deskové hry jsou také její vášní. 
 
-Má ráda život a cestování po světě. Ráda poznává cizí exotické kultury a kraje. Bojové sporty a tanec jsou také její vášní.
-
-„Informace jsou cennější než peníze. Pirátský program si klade za cíl, prosazovat sdílení informací, které je odpíráno hrstkou soukromých korporací. Sdílení je morální nezbytnost. Jen v případě dostatku informací je možné si svobodně a vědomě vybrat tu nejlepší možnou alternativu a zabránit korupci.“ 
+„Informace jsou cennější než peníze. Pirátský program si klade za cíl prosazovat sdílení informací. Jen v případě dostatku informací je možné si svobodně a vědomě vybrat tu nejlepší možnou alternativu. Transparence je obrana proti korupci a neobjektivnosti.“ 
