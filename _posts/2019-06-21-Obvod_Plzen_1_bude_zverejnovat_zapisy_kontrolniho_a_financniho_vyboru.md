@@ -11,3 +11,6 @@ author:       Zastupitelský klub Plzeň 1
 **Piráti prosadili zveřejňování zápisů  z kontrolního a finančního výboru na webu městského obvodu Plzeň 1.**
 
 Plzeň, 20. červen 2019 - Skupině pirátských zastupitelů z obvodu Plzeň 1 (Mgr. Magdaléna Daňková, František Hagara a Ing. Jiři Rezek Ph.D.) se podařilo prosadit usnesení na uveřejňování zápisů z kontrolního a finančního výboru na webu městského obvodu Plzeň 1, který byl schválen po drobné korekci ze strany ODS. Podle Pirátů je navrhovaná úprava nezbytná k tomu, aby veřejnost měla účinný přístup k informacím. Nadále zároveň pokračují v pořizování videozáznamu ze zastupitelstva, který streamují na svoji FB stránku Piráti Plzeň, kde je přístupný široké veřejnosti. Stream a videozáznam považujeme jako jeden z užitečných nástrojů, jak šířit informace o dění v obvodu.
+
+Pirátský záznam zasedání naleznete na url:
+https://www.facebook.com/frantisek.hagara/videos/401827547084216/
