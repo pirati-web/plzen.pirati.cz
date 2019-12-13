@@ -8,7 +8,6 @@ image:        posts/plzen1.jpg
 author:       Zastupitelský klub Plzeň 1
 ---
 
-**Piráti upozornili na porušování jednacího řádu během zastupitelstva MO Plzeň 1**
 
 Plzeň, 4. prosince - Městský obvod Plzeň 1 se sám označuje jako transparentní. Je proto zarážející, že odmítá občanům dát možnost reagovat na jejich dotazy. To je v rozporu s jednacím řádem zastupitelstva, ve kterém je uvedeno, že občané mohou reagovat dvakrát v každém bodě. 
 
