@@ -4,7 +4,7 @@ category:     blog
 tags:         Plzeň MO Plzeň1
 layout:       post
 title:        "Piráti upozornili na porušování jednacího řádu během zastupitelstva MO Plzeň 1" 
-image:        posts/plzen1_zastupitelstvo1.jpeg
+image:        posts/plzen1.jpg
 author:       Zastupitelský klub Plzeň 1
 ---
 
