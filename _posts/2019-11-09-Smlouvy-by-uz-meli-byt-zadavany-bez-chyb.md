@@ -7,8 +7,6 @@ title:        "Smlouvy v Plzni by už měly být zadávány bez chyb."
 image:        posts/Daniel_Kus_zastupitelstvo.jpg
 author:       Daniel Kůs
 ---
-
-**Smlouvy v Plzni by už měly být zadávány bez chyb.**
  
 Zneplatnění smluv a případné škody pro město. K tomu všemu mohlo dojít kvůli nedůslednému uveřejňování smluv v oficiálním registru. To obcím a jejich příspěvkovým organizacím nařizuje zákon.
 
