@@ -12,5 +12,5 @@ Pojďme spolu všichni sdílet Vánoce.
 Každý nemá na společnost štěstí.
 Na Štědrý den jsme tu pro každého. 
 
-Plzeňské Pirátské centrum bude na Štědrý den otevřeno všem od 12:00 do 18:00. 
+Plzeňské Pirátské centrum bude na Štědrý den otevřeno všem od 12:00 do 17:00. 
 Na každého čeká horký čaj, bramborový salát s rybou a trocha cukroví 🎄🏴‍☠️
