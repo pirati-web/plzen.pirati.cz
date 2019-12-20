@@ -4,7 +4,7 @@ category:     blog
 tags:         Plzeň
 layout:       post
 title:        "Plzeňské Pirátské Vánoce" 
-image:        posts/sdilene_vanoce.jpg
+image:        posts/stedre_odpoledne.jpg
 author:       MS Plzeň
 ---
 
