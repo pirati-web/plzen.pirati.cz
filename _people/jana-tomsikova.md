@@ -12,7 +12,7 @@ img: people/jana-tomsikova.jpg           # 165 x 220
 description: Zastupitelka Městského obvodu Plzeň 4, místopředsedkyně Sociální a školské komise Plzeň 4, členka Komise pro výchovu a vzdělávání RM Plzně # kratký popis, max 160 znaků
 ordplzen: 11
 ordplzen4: 2
-mail:
+mail: jana.tomsikova@pirati.cz
 mob: 
 profiles:
   github:
