@@ -4,7 +4,7 @@ category:     blog
 tags:         Plzeň 1 životní_prostředí
 layout:       post
 title:        Jaký bude osud Boleveckých rybníků?
-image:        posts/br_01.jpg
+image:        posts/br_01.JPG
 author:       Piráti Plzeň 1
 ---
 **Tuto otázku si pokládá čím dál tím více Plzeňanů. V posledních letech dochází k rapidnímu úbytku vody v soustavě Boleveckých rybníků. Za poslední čtyři roky to dělá celý metr. Zeptali jsme se proto Správy veřejného statku města Plzně (SVSMP), jaký je plán řešení vedení města s tímto naléhavým problémem. Zajímalo nás také, zde se přijde s řešeními krátkodobými či dlouhodobými. Citace z odpovědí SVSMP jsou v textu zvýrazněny.**
@@ -23,7 +23,7 @@ Otázkou ovšem je, zda-li krátkodobá řešení jsou pro toto narušení celko
 > na revitalizaci bývalého Klotzova rybníčku (bývalá drobná vodní nádrž
 > na bezejmenném přítoku Boleveckého potoka u Rabštejnské ul.).
 
-![](/assets/img/posts/br_02.jpg)
+![](/assets/img/posts/br_02.JPG)
 
 Dále se zpracovává prověření hydrogeologických poměrů v širším okolí rybníků pro nalezení dalšího možného zdroje vody pro Boleveckou rybniční soustavu. “
 
@@ -44,7 +44,7 @@ V letošním sezóně bychom se dle odborníků o kvalitu vody v Boleveckých ry
 
 S tímto si dovolíme nesouhlasit, v posledních desetiletí sloužila soustava Boleveckých rybníků především k relaxaci u vody, slunění či koupání plzeňských obyvatel, vodními sporty. Dívat se z Pointu na polovyschlý rybník, ve kterém nebude povoleno se koupat, ale můžete si dát hamburger s hranolky a colu do plastového kelímku, trochu ztrácí smysl chráněného přírodního území a relaxace v přírodě. Připomíná spíše byznys a hru na přírodu než přírodu samotnou. Úbytek vody v rybnících má z dlouhodobého hlediska také zásadní vliv na rybí populaci, jejich úmrtnost, vzniku nových predátorů, patogenů, může ovlivňovat i množství potravy pro ryby.
 
-![](/assets/img/posts/br_03.jpg)
+![](/assets/img/posts/br_03.JPG)
 
 Zajímavá je zde i spojitost s nadcházející změnou územního plánu města Plzně. Dochází zde k rozšíření zástavby napříč obvody, městský obvod 1 není výjimkou, a to i v blízkosti Boleveckými rybníků.
 
@@ -59,4 +59,4 @@ Jelikož na úbytek vody kromě sucha má mimo jiné vliv i zástavba, je pro n�
 
 **Oblast Boleveckých rybníků je stále vyhledávanější rekreační lokalitou a zaslouží si víc než další zástavbu. Zaslouží si zachovat svůj přírodní ráz. Sice na tom nikdo nezíská peníze, ale zdraví a příroda se nedá vyvážit penězi.**
 
-![](/assets/img/posts/br_04.jpg)
+![](/assets/img/posts/br_04.JPG)
