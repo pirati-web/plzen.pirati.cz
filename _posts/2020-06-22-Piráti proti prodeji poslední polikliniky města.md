@@ -3,7 +3,7 @@ date:         2020-06-22
 category:     blog
 tags:         Plzeň ZMP
 layout:       post
-title:        "Piráti jsou proti prodeji poslední polikliniky v majetku města" 
+title:        "Piráti proti prodeji poslední polikliniky v majetku města" 
 image:        posts/poliklinika_hlasovani.png
 author:       Radek Krejčí
 ---
