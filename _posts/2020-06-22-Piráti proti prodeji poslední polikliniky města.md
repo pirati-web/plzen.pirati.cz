@@ -1,5 +1,5 @@
 ---
-date:         2020-04-06
+date:         2020-06-22
 category:     blog
 tags:         Plzeň ZMP
 layout:       post
