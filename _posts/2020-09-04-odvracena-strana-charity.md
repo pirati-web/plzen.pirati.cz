@@ -25,4 +25,6 @@ Projekt Mokrý dům je služba, která poskytuje nocleh pro lidi bez domova i po
 
 *„Pokud vedení města neumí vyřešit současnou situaci, považuji za nesmysl navyšovat kapacitu. Je lepší otevřít nové místo v jiné lokalitě s menší kapacitou a tak bezdomovectví více rozprostřít, nebo ještě lépe začít ukončovat bezdomovectví a nabízet lidem práci a pomoc v sociálních službách,“* shrnula problematiku zastupitelka za Piráty Magdaléna Daňková.
 
+(Tento článek neni stanoviskem MS Plzeň.)
+
 ![](/assets/img/posts/charita_02.jpg)
