@@ -4,7 +4,7 @@ category:     blog
 tags:         PirátskéCentrum Program DanielKus
 layout:       post
 title:        "Plzeň by měla podporovat startupy" 
-image:        posts/daniel_kus.png
+image:        posts/daniel-kus.jpg
 author:       Daniel Kůs
 ---
 
