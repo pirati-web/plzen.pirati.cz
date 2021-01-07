@@ -7,8 +7,6 @@ author: Piráti-Plzeň1
 image: posts/rybnik_1.JPG
 ---
 
-**Šídlovský rybník**
-
 Občany městského obvodu 1 velmi trápí stav Šídlovského rybníku. Zeptali jsme se proto Ing. Richarda Havelky ze Správy veřejného statku města Plzně (SVSMP) na aktuální stav Šídlovského rybníku, jaká je jeho nejbližší budoucnost
 
 V letních měsících došlo k vypuštění Šídloveckého rybníka o 160 cm z důvodu opravy přelivu, kdy bude rybník opět dopuštěn?
