@@ -7,7 +7,7 @@ author: Radek Krejčí
 image: posts/akva.jpg
 ---
 
-Do Nového roku 2021 nevstupuje Plzeň jen s novým kalendář, ale s novou Koncepcí sportu, kterou město schválilo v listopadu loňského roku. Piráti odmítli novou koncepci předloženou náměstkem Zarzyckým (ANO) schválit, protože jim vadí její povrchnost, nekoncepčnost a celá řada dalších nedostatků
+Do Nového roku 2021 nevstupuje Plzeň jen s novým kalendářem, ale s novou Koncepcí sportu, kterou město schválilo v listopadu loňského roku. Piráti odmítli novou koncepci předloženou náměstkem Zarzyckým (ANO) schválit, protože jim vadí její povrchnost, nekoncepčnost a celá řada dalších nedostatků
 
 Jak upozornil pirátský zastupitel Radek Krejčí, předložená koncepce neodpovídá základním standardům strategického dokumentu. Neobsahuje např. žádné hodnocení za uplynulé období a vůbec není provázána s ostatními strategickými dokumenty města. "Celé mi to připadá, jako by někdo jen opsal minulou koncepci a sem tam doplnil aktuální informace nebo nějaké své 'akcičky'," říká Krejčí. Poukazuje na to, že mezi vágními a nic neříkajícími pasážemi se objevují nerealizovatelné nebo nesmyslné projekty. "Koncepce si dává za cíl vytipovat možnosti koupání u přehrady České údolí, přestože každoročně má tato přehrada problémy s kvalitou vody a je proto pro koupání nevhodná. Pokud by koncepce pracovala v širších souvislostech, nemohla by si takový cíl vytyčit.
 
