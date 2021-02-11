@@ -1,8 +1,8 @@
 ---
-date: 2021-02-01
+date: 2021-02-11
 category: blog
 tags: Plzen 
-title: Piráti se ptají: „Proč město Plzeň štědře podpořilo soukromou posilovnu?“ Na pomoc řadě klubů a spolků pak nezbylo!
+title: Piráti se ptají "Proč město Plzeň štědře podpořilo soukromou posilovnu?“ Na pomoc řadě klubů a spolků pak nezbylo!
 author: Radek Krejčí
 image: people/Radek Krejci_kancelar_s.jpg
 ---
