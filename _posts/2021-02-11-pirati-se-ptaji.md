@@ -6,6 +6,7 @@ title: Piráti se ptají: „Proč město Plzeň štědře podpořilo soukromou 
 author: Radek Krejčí
 image: people/Radek Krejci_kancelar_s.jpg
 ---
+
 Jedna z nejvyšších přidělených dotací v rámci programu na rekonstrukce a výstavbu sportovních areálů na území města Plzně ve výši 741 370 korun putuje známému plzeňskému fitness centru. Opravovat se tak letos za městské peníze bude mimo jiné vzduchotechnika v budově soukromého vlastníka, kde sídlí komerčně provozované fitness. Řada tradičních sportovních klubů a spolků se naopak podpory od města Plzně nedočká!
 
 Město Plzeň na pondělním zasedání zastupitelstva rozdělilo částku 9,5 miliónu korun na podporu rekonstrukcí, oprav a výstavby sportovních areálů na území města Plzně v roce 2021. Ze 45 podaných žádostí, na základě doporučení hodnotící komise, vybrali zastupitelé 22 projektů sportovních organizací, které v letošním roce finančně podpoří. 
