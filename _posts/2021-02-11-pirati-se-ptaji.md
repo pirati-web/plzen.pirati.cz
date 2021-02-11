@@ -19,3 +19,5 @@ Mezi žadateli byli i další provozovatelé posiloven žádajících z pozice z
 
 Na základě čeho tedy rozhodla hodnotící komise a následně i zastupitelé města Plzně o vysoké dotaci pro komerční fitness centrum prostřednictvím zapsaného spolku sídlícího na základě smlouvy v objektu v soukromém vlastnictví, bude otázkou další diskuze. *„Pro plzeňské Piráty je nepřípustné, aby vedení města rozdělovalo veřejné peníze netransparentně, nebo je dokonce posílalo svým oblíbencům. To, že na tyto praktiky upozorňujeme, opět potvrzuje fakt, že Piráti pečlivě hlídají každý detail, přesně tak, jak slíbili voličům,"* konstatuje Pavel Bosák, předseda zastupitelského klubu České pirátské strany v Plzni.
 
+Podkladové materiály pro usnesení zastupitelstva jsou veřejně přístupné <a target="_blank" href="https://usneseni.plzen.eu/index.php?page=podklady_dlgdetail&id=90773"><b>ZDE</b></a>
+
