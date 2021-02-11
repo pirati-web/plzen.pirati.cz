@@ -4,7 +4,7 @@ category: blog
 tags: Plzen 
 title: Plzeňští politici už zase haraší s akvaparkem
 author: Radek Krejčí
-image: posts/akva.jpg
+image: people/Radek Krejci_kancelar_s.jpg
 ---
 
 Do Nového roku 2021 nevstupuje Plzeň jen s novým kalendářem, ale s novou Koncepcí sportu, kterou město schválilo v listopadu loňského roku. Piráti odmítli novou koncepci předloženou náměstkem Zarzyckým (ANO) schválit, protože jim vadí její povrchnost, nekoncepčnost a celá řada dalších nedostatků
