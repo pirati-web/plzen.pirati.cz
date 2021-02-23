@@ -2,7 +2,7 @@
 date: 2021-02-23
 category: blog
 tags: Plzen Plze4 Doubravka SeniorinaPalube
-title: Na Doubravce rozjíždíme projekt Seniori na palubě a plánujeme akce!
+title: Na Doubravce rozjíždíme projekt Senioři na palubě a plánujeme akce!
 author: Jana Tomšíková
 image: people/Tomsikova_small.jpg
 ---
