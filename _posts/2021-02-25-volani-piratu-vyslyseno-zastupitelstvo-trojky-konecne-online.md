@@ -7,7 +7,7 @@ author: Libor Janíček
 image: posts/Piráti_online_hlasovani.jpg
 ---
 
-**Ve středu 24. února proběhlo historicky první distanční on-line zasedání zastupitelstva centrálního plzeňského obvodu. Pro občany i Piráty důvod k oslavě, ale…Po distančním on-line jednání zastupitelstva volali Piráti už od jara minulého roku, a to jak z důvodu transparentnosti, tak z důvodu ochrany zdraví a zodpovědného přístupu, který by byl dobrým příkladem pro Plzeňáky. Tak proč to trvalo rok?**
+**Ve středu 24. února proběhlo historicky první distanční on-line zasedání zastupitelstva centrálního plzeňského obvodu. Pro občany i Piráty důvod k oslavě, ale… Po distančním on-line jednání zastupitelstva volali Piráti už od jara minulého roku, a to jak z důvodu transparentnosti, tak z důvodu ochrany zdraví a zodpovědného přístupu, který by byl dobrým příkladem pro Plzeňáky. Tak proč to trvalo rok?**
 
 Ačkoli vedení centrálního plzeňského městského obvodu mohlo využít služeb vynikajících specialistů ze Správy informačních technologií města Plzně (SITMP) a realizovat distanční on-line jednání zastupitelstva už na počátku epidemie Covid-19, nestalo se tak. Důvod není složitý, s tímto návrhem přišli Piráti, kteří jsou v opozici. A jak je „dobrým“ zvykem, nápady a připomínky opozičních stran se nereflektují a pokud, tak se považují a prezentují jako iniciativa vedení obvodu. 
 
