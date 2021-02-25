@@ -4,7 +4,7 @@ category: blog
 tags: Plzen Plze3 
 title: Volání Pirátů vyslyšeno, zastupitelstvo Trojky konečně on-line!
 author: Libor Janíček
-image: posts/FOTO_Pirati_Zastupitelsvo_MO3_online.jpg
+image: posts/Piráti_online_hlasovani.jpg
 ---
 
 **Ve středu 24. února proběhlo historicky první distanční on-line zasedání zastupitelstva centrálního plzeňského obvodu. Pro občany i Piráty důvod k oslavě, ale…Po distančním on-line jednání zastupitelstva volali Piráti už od jara minulého roku, a to jak z důvodu transparentnosti, tak z důvodu ochrany zdraví a zodpovědného přístupu, který by byl dobrým příkladem pro Plzeňáky. Tak proč to trvalo rok?**
