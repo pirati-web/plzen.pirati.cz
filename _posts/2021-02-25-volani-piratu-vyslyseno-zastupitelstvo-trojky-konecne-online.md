@@ -1,7 +1,7 @@
 ---
 date: 2021-02-25
 category: blog
-tags: Plzen Plze3 
+tags: Plzen Plzeň3 
 title: Volání Pirátů vyslyšeno, zastupitelstvo Trojky konečně on-line!
 author: Piráti Plzeň
 image: posts/Piráti_online_hlasovani.jpg
