@@ -15,5 +15,5 @@ Podle důkazů předložených Piráty na jednání zastupitelstva města Plzně
 
 Ale to zdaleka není vše. K vyúčtování dotace žadatel zjevně přiložil fotografie trenažérů v Dýšině. Pouze když hrozila kontrola, byly trenažéry patrně demontovány a jejich komponenty v rozloženém stavu fotograficky zdokumentovány v sídle akademie v Plzni.  Pikantní na celé záležitosti je i to, že Golfová akademie a Golf Park v Dýšině mají stejného předsedu předsednictva, resp. představenstva, a tři další stejné členy vedení, navíc v příbuzenském vztahu. Simulátory tedy de facto prodávali sami sobě.
 
-*„Po této zkušenosti nepovažujeme Regionální golfovou akademii za seriózního partnera. Město, stejně tak kraj by dál nemělo jakkoliv podporovat tuto organizaci,”* uzavírá Rezek. I proto budeme, my Piráti chtít po akademii vysvětlení této kauzy. Pokud se ho nedočkáme, budeme proti při rozhodování o přidělení statusu, který by tuto organizaci opravňoval žádat a získávat miliónové dotace z rozpočtu města Plzně a Plzeňského kraje.
+*„Po této zkušenosti nepovažujeme Regionální golfovou akademii za seriózního partnera. Město, stejně tak kraj, by dál nemělo jakkoliv podporovat tuto organizaci,”* uzavírá Rezek. I proto budeme, my Piráti chtít po akademii vysvětlení této kauzy.
 
