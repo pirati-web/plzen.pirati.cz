@@ -6,7 +6,6 @@ title: Stížnost studenta střední zdravotnické školy z Plzeňska na průbě
 author: Pirati Plzeň
 image: posts/Pirati_stížnost_Jana.jpg
 ---
-
 **Ve čtvrtek 4. března se do rukou Jany Tomšíkové, členky Výboru pro výchovu, vzdělávání a zaměstnanost, který je poradním orgánem Zastupitelstva Plzeňského kraje, dostala anonymní stížnost studenta třetího ročníku blíže neurčené střední zdravotnické školy, který popisoval alarmující průběh nařízených povinných praxí v nemocnici. Ačkoli byla stížnost anonymní, výbor ji okamžitě začal řešit v součinnosti s vedením Plzeňského kraje.**
 
 Zaslaná stížnost byla diskutována již během online zasedání výboru. *„Bohužel byla stížnost anonymní a nebyla zmíněna konkrétní střední škola ani nemocnice, ve které praxe probíhají. Na druhou stranu byl popis neutěšené situace povinných praxí popsaný do nejmenších detailů tak, že nikoho z členů výboru nenechal v klidu,“* popisuje Jana Tomšíková, zastupitelka MO4 Plzeň a členka Výboru pro výchovu, vzdělávání a zaměstnanost. 
