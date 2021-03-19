@@ -4,7 +4,7 @@ category: blog
 tags: Plzeň Stížnost Zdravotnictví Praxe
 title: Stížnost studenta střední zdravotnické školy z Plzeňska na průběh povinných praxí nezapadla a aktivně se řeší!
 author: Pirati Plzeň
-image: posts/Pirati_RGA_Rezek.jpg
+image: posts/Pirati_stížnost_Jana.jpg
 ---
 
 **Ve čtvrtek 4. března se do rukou Jany Tomšíkové, členky Výboru pro výchovu, vzdělávání a zaměstnanost, který je poradním orgánem Zastupitelstva Plzeňského kraje, dostala anonymní stížnost studenta třetího ročníku blíže neurčené střední zdravotnické školy, který popisoval alarmující průběh nařízených povinných praxí v nemocnici. Ačkoli byla stížnost anonymní, výbor ji okamžitě začal řešit v součinnosti s vedením Plzeňského kraje.**
