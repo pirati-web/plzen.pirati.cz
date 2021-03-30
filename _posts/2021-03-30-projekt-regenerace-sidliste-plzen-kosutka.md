@@ -1,7 +1,7 @@
 ---
 date: 2021-03-30
 category: blog
-tags: Plzeň MO 1 Plzeň Parkování Developeři
+tags: Plzeň MO1Plzeň Parkování Developeři
 title: Projekt regenerace sídliště Plzeň – Košutka chybějící parkovací místa nevyřeší, zvítězil soukromý zájem nad veřejným
 author: Pirati Plzeň
 image: posts/Pirati_Kosutka_Developerovo.jpg
