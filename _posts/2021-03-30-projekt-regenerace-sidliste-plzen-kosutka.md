@@ -18,6 +18,6 @@ Zastupitelé České Pirátské strany hlasovali proti nebo se hlasování zdrž
 
 Včerejší výsledek výstižně shrnuje také místní obyvatel Ing. Ženíšek, který se osobně zúčastnil včerejšího zasedání zastupitelstva města Plzně a před zastupiteli i vystoupil: *„Záměr Bytový dům Krašovská je dle mého zneužití územního plánování!“*
 
-Piráti stojí za obyvateli Košutky a dostatek parkovacích míst, kvalitní infrastruktura, ale i zachování zeleně v Plzni jsou pro nás jednou z priorit. O to více se Piráti zaměří na důkladné posouzení a zohlednění veřejného zájmu u všech nově se rodících, nejen developerských, projektů v Plzni.
+Piráti stojí za obyvateli Košutky a dostatek parkovacích míst, kvalitní infrastruktura, ale i zachování zeleně v Plzni jsou naše priority. O to více se Piráti zaměří na důkladné posouzení a zohlednění veřejného zájmu u všech nově se rodících, nejen developerských, projektů v Plzni.
 
-Za Českou Pirátskou stranu Magdalena Daňková
+Za Českou Pirátskou stranu [Magdalena Daňková](https://plzen.pirati.cz/lide/magda-dankova/)
