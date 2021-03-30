@@ -4,7 +4,7 @@ category: blog
 tags: Plzeň MO 1 Plzeň Parkování Developeři
 title: Projekt regenerace sídliště Plzeň – Košutka chybějící parkovací místa nevyřeší, zvítězil soukromý zájem nad veřejným
 author: Pirati Plzeň
-image: posts/Pirati_stížnost_Jana.jpg
+image: posts/Pirati_Kosutka_Developerovo.jpg
 ---
 **V současné době schází v Městském obvodě Plzeň 1 vybudovat zhruba 2 200 parkovacích míst a poptávka po dalších bude v blízké době narůstat. Situaci měl alespoň částečně řešit Projekt regenerace sídliště Plzeň – Košutka, který již od roku 1984 počítal s výstavbou parkovacího domu s kapacitou více než 450 parkovacích míst. Kvůli táhlým sporům investora a města Plzně se s původně plánovanou výstavbou nezačalo, ačkoli vybudování parkovacího domu byl jasně deklarovaný veřejný zájem. Místo parkovacího domu ale v brzké době vyrostou věžové domy s byty a administrativními prostory. Navíc bez jakéhokoli veřejného projednání s místními občany. S tím Piráti při včerejším zasedání zastupitelstva města Plzně rezolutně nesouhlasili!**
 
@@ -18,6 +18,6 @@ Zastupitelé České Pirátské strany hlasovali proti nebo se hlasování zdrž
 
 Včerejší výsledek výstižně shrnuje také místní obyvatel Ing. Ženíšek, který se osobně zúčastnil včerejšího zasedání zastupitelstva města Plzně a před zastupiteli i vystoupil: *„Záměr Bytový dům Krašovská je dle mého zneužití územního plánování!“*
 
-Piráti stojí za obyvateli Košutky a dostatek parkovacích míst i kvalitní infrastruktura v Plzni je pro ně jednou z priorit. O to více se Piráti zaměří na důkladné posouzení a zohlednění veřejného zájmu u všech nově se rodících, nejen developerských, projektů v Plzni.
+Piráti stojí za obyvateli Košutky a dostatek parkovacích míst, kvalitní infrastruktura, ale i zachování zeleně v Plzni jsou pro nás jednou z priorit. O to více se Piráti zaměří na důkladné posouzení a zohlednění veřejného zájmu u všech nově se rodících, nejen developerských, projektů v Plzni.
 
 Za Českou Pirátskou stranu Magdalena Daňková
