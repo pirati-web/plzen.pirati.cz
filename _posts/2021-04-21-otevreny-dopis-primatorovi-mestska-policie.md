@@ -26,6 +26,7 @@ O podniknutých krocích, prosíme,  neprodleně informujte předsedy zastupitel
 Dále požadujeme **vyhotovení jasné koncepce činnosti obecní policie, její komunikaci a nalezení shody napříč politickým spektrem.** Jedině tak je možné zachovat řádný chod a zabránit fatálním škodám. Dlužíme to strážnicím a strážníkům, zvláště pak v této nelehké době, kdy i oni nesou břímě boje v první linii proti pandemii Covid-19.
 
 S pozdravem
+
 klub zastupitelů České pirátské strany Zastupitelstva města Plzně
 
 Pavel Bosák, Mgr. Magdaléna Daňková, Bc. Radek Krejčí, Mgr. Daniel Kůs, Ing. Jiří Rezek, Ph.D., Pavel Šrámek, Petr Vileta
