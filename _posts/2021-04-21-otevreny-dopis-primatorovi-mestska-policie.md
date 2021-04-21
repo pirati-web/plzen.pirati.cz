@@ -6,6 +6,7 @@ title: Piráti otevřeným dopisem vyzývají vedení města Plzně k řešení 
 author: Zastupitelský klub Pirátů
 image: posts/pirati_mestska_policie_plzen.jpg
 ---
+
 **Vážený pane primátore, vážená Rado města Plzně,
 Zastupitelský klub České pirátské strany Vás vyzývá, abyste neprodleně zamezili hrozícímu vnitřnímu rozkladu a snížení akceschopnosti Městské policie Plzeň.** 
 
