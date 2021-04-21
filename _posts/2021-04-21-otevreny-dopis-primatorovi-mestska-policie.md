@@ -2,8 +2,8 @@
 date: 2021-04-21
 category: blog
 tags: Plzeň Dopis MestskaPolicie Krize
-title: Piráti otevřeným dopisem vyzývají vedení města Plzně k řešení kritické situace v Městské policii
-author: Piráti Plzeň
+title: Piráti otevřeným dopisem vyzývají vedení města Plzně k řešení kritické situace v Městské policii Plzeň
+author: Zastupitelský klub Pirátů
 image: posts/pirati_mestska_policie_plzen.jpg
 ---
 **Vážený pane primátore, vážená Rado města Plzně,
