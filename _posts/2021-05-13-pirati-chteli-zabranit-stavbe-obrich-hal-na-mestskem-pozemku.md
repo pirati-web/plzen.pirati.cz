@@ -4,7 +4,7 @@ category: blog
 tags: Plzeň Prodej Pozemek Haly
 title: Piráti chtěli zabránit stavbě obřích hal na městském pozemku, vedení města Plzně přesto dalo halám zelenou!
 author: Zastupitelský klub Pirátů
-image: posts/pirati_mestska_policie_plzen.jpg
+image: posts/Pirati_Haly v Zatisi.jpg
 ---
 
 **Piráti se na pondělním zasedání Zastupitelstva města Plzně pokusili zabránit prodeji strategického městského pozemku. Jednalo se o areál bývalých kasáren Zátiší na Borských Polích, který by město Plzeň mohlo využít k záměrům skutečně prospěšným pro obyvatele města. Bohužel neuspěli, a tak dojde k výstavbě dalších obřích průmyslových hal.**
