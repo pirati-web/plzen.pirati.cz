@@ -19,4 +19,4 @@ Pokud se naplní obavy Pirátů, strčila Plzeň hlavu do oprátky a začala dl�
 
 Z výše popsaných důvodů Piráti nepodpořili ani jeden z předložených záměrů investorů. Nicméně, koalice ANO, ČSSD, ODS a TOP 09 stažení bodu z jednání neumožnila, a místo toho posunula do druhého kola dva uchazeče, kteří se zúčastní následné aukce. *“Není vůbec jasné, na základě jakých kritérií koalice vybrala právě tyto dva záměry,”* podivuje se Pavel Bosák. *“Vedení města je, bohužel, stále svým smýšlením, jak nakládat s pozemky ve vlastnictví města, v hlubokých devadesátkách,”* uzavírá s povzdechem Daniel Kůs.
 
-Na čtyři předložené návrhy se můžete podívat [zde](https://uschovna.plzen.eu/zasilka/C60A3C95-5DE4-4340-B4DF-CBC9DC4D4B82?fbclid=IwAR0YMTnC_-5t1djZp6ruxs5Kyqmfs9ja957K0hv38AXhJpRtzw1TneKg4pg)
+Na čtyři předložené návrhy se můžete podívat [zde.](https://uschovna.plzen.eu/zasilka/C60A3C95-5DE4-4340-B4DF-CBC9DC4D4B82?fbclid=IwAR0YMTnC_-5t1djZp6ruxs5Kyqmfs9ja957K0hv38AXhJpRtzw1TneKg4pg)
