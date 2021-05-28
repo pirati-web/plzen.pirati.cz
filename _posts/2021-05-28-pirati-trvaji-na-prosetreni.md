@@ -1,7 +1,7 @@
 ---
 date: 2021-05-28
 category: blog
-tags: Plzeň Boleveckrybnik Pirati
+tags: Plzeň Boleveckrybnik Pirati PavelŠrámek
 title: Piráti trvají na prošetření, zda za úbytek vody v Boleváku může také série chybných rozhodnutí vedení města Plzně!
 author: Piráti Plzeň
 image: posts/PirStan_FB status_1_Sramek.jpg
