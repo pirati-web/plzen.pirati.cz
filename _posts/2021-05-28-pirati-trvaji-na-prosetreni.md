@@ -7,7 +7,7 @@ author: Piráti Plzeň
 image: posts/PirStan_FB status_1_Sramek.jpg
 ---
 
-Za enormní úbytek vody v největším rybníku jedné z nejstarších rybničních soustav v České republice a vyhledávaným plzeňským přírodním “koupalištěm” nejspíš stojí i série chybných rozhodnutí vedení města. Piráti budou na příštím zasedání zastupitelstva 21. června, požadovat vysvětlení celé situace a v případě prokazatelného pochybení také vyvození politické odpovědnosti.
+Za enormním úbytkem vody v největším rybníku jedné z nejstarších rybničních soustav v České republice a vyhledávaným plzeňským přírodním “koupalištěm” nejspíš stojí i série chybných rozhodnutí vedení města. Piráti budou na příštím zasedání zastupitelstva 21. června, požadovat vysvětlení celé situace a v případě prokazatelného pochybení také vyvození politické odpovědnosti.
 
 Dlouhodobě neřešený odvod dešťové vody ze sídliště Lochotín do městské kanalizace, ale hlavně povolení a zahájení výstavby domů a silničního průtahu na severním svahu vrchu Mikulka v posledních deseti letech, brání přirozenému přítoku vody do Velkého Boleveckého rybníka. Pomyslnou alarmující špičkou ledovce je čerstvé zjištění opakovaného nepovoleného svádění povrchové vody od základů čtyř bytových domů v blízkosti Boleváku nelegálně proraženým otvorem přímo do městské kanalizace.
 
