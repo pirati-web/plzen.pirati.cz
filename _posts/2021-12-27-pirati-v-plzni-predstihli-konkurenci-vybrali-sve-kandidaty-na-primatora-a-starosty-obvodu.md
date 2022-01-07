@@ -5,7 +5,7 @@ tags: PiratiPlzen Lidri KomunalniVolby2O22
 title: Piráti v Plzni předstihli konkurenci. Vybrali své kandidáty na primátora a starosty obvodů.
 author: Eva Šrámková 
 image: posts/image0.jpeg
-important: true 
+important: true
 ---
 
 **Piráti v Plzni předstihli konkurenci. Vybrali své kandidáty na primátora a starosty obvodů.**
