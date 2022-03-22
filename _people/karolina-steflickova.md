@@ -15,7 +15,8 @@ mob: +420 704 975 334
 profiles:
 ---
 
-Mgr. Karolína Šteflíčková (23. 8. 1996), Krajská koordinátorka - Plzeňský kraj. Karolína pochází z města Jindřichův Hradec, ale od roku 2016 žije v Plzni.
+**Mgr. Karolína Šteflíčková** (23. 8. 1996), Krajská koordinátorka - Plzeňský kraj. 
+Karolína pochází z města Jindřichův Hradec, ale od roku 2016 žije v Plzni.
 
 Studovala ZČU v Plzni na Katedře politologie a mezinárodních vztahů obor Mezinárodní vztahy. V rámci bakalářského studia se zaměřovala na ruská studia a v rámci navazujícího studia na bezpečnostní tématiku. Během studia se zúčastnila také dvou stáží, a to v České pirátské straně a v Ruském centru, kde koordinovala akce, které byly Ruským centrem pořádány. V Pirátské straně pracuje jako krajská koordinátorka Plzeňského kraje.
 
