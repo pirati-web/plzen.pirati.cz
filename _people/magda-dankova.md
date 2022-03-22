@@ -8,9 +8,8 @@ category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plk
 - plzen                 
-- pms
 img: people/magdalena-dankova.jpg           # 165 x 220
-description: Zastupitelka na ÚMO 1 a na magistrátu města Plzně, vedoucí mediálního teamu MS Plzeň # kratký popis, max 160 znaků
+description: Zastupitelka na ÚMO 1 a na magistrátu města Plzně # kratký popis, max 160 znaků
 mail:
 - magda.dankova@pirati.cz
 mob: +420 778 501 029
