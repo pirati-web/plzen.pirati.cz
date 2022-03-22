@@ -7,7 +7,7 @@ titles:
 category: 
 - plzen  
 - kontaktni_osoba   # kategorie: rp, praha, vary, hradec, jmk, senat
-img: people/karolina-steflickova.jpg           # 165 x 220
+img: people/karolina-steflickova.png           # 165 x 220
 description: Koordinátorka krajského sdružení # kratký popis, max 160 znaků
 mail:
 - karolina.steflickova.cz
