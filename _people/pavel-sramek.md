@@ -7,10 +7,9 @@ titles:
 category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - mag
 - plk
-- plzen                 		
-- pms
+- plzen
 img: people/pavel-sramek.jpg           # 165 x 220
-description: Předseda zastupitelského klubu Pirátů na ÚMO 3, zastupitel na magistrátu, předseda MS Plzeň # kratký popis, max 160 znaků
+description: Předseda zastupitelského klubu Pirátů na ÚMO 3, zastupitel na magistrátu # kratký popis, max 160 znaků
 mail:
 - pavel.sramek@pirati.cz
 mob: +420 777 300 508 
