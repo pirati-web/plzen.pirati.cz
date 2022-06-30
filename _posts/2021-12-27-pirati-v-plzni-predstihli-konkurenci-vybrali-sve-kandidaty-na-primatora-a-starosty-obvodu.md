@@ -22,4 +22,4 @@ Na MO 4 kandiduje na starostku Jana Tomšíková. Jana je učitelka, redaktorka 
 
 *„Jsem rád, že díky naší intenzivní práci v zastupitelstvech obvodů dnes máme k dispozici kvalitní a zkušené kandidáty,”* komentuje volby předseda MS Plzeň Marek Habruň. *"Výběr kandidátů jsme spustili s velkým předstihem, aby bylo možné co nejdříve zahájit přípravu volebního programu a kampaně,“* dodává.
 
-Volby do zastupitelstev obcí proběhnou v říjnu 2022.
+Volby do zastupitelstev obcí proběhnou v září 2022.
